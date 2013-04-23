@@ -1,0 +1,835 @@
+1	gimenete	iOS-boilerplate	0	iOS-app template with lots of common tasks solved	https://github.com/gimenete/iOS-boilerplate	http://iosboilerplate.com/	2418	374
+2	erica	iOS-5-Cookbook	0		https://github.com/erica/iOS-5-Cookbook		870	252
+3	honcheng	PaperFold-for-iOS	0	Paper folding animation for iOS	https://github.com/honcheng/PaperFold-for-iOS		1677	226
+4	Dillion	iOS-Flip-Transform	0	Core Animation framework for navigating data by flipping	https://github.com/Dillion/iOS-Flip-Transform		680	105
+5	couchbaselabs	TouchDB-iOS	0	CouchDB-compatible mobile database; Objective-C version	https://github.com/couchbaselabs/TouchDB-iOS		648	91
+6	nst	iOS-Runtime-Headers	0	iOS Objective-C headers as derived from runtime introspection	https://github.com/nst/iOS-Runtime-Headers	https://github.com/nst/RuntimeBrowser	647	90
+7	jverkoey	iOS-Framework	0	How to create, develop, and distribute iOS Static Frameworks quickly and efficiently	https://github.com/jverkoey/iOS-Framework	http://JeffVerkoeyen.com/	648	63
+8	schwa	iOS-PDF-Reader	0	An open source (BSD) iPhone & iPad PDF Reader	https://github.com/schwa/iOS-PDF-Reader		370	75
+9	andreyvit	SoloComponents-iOS	0	Self-contained, two-file (.h/.m) iPhone/iPad components that are dead-easy to drop into your projects	https://github.com/andreyvit/SoloComponents-iOS		506	54
+10	glock45	iOS-Hierarchy-Viewer	0	iOS Hierarchy Viewer allows developers to debug their user interfaces. If there are problems with layout calculations, it will catch them by giving a real time preview of the UIViews hierarchy. iOS Hierarchy Viewer (since 1.4.6 version) gives preview of your data if you use Core Data API in your project. See 'Instruction' section to start with it.	https://github.com/glock45/iOS-Hierarchy-Viewer		668	43
+11	bennyguitar	Colours-for-iOS	0	A collection of predefined UIColors you can use in your apps. Just include the Colours.h/.m files and you'll have a slew of new colors to use.	https://github.com/bennyguitar/Colours-for-iOS		491	46
+12	erica	iOS-6-Cookbook	0	iOS 6 update	https://github.com/erica/iOS-6-Cookbook		204	84
+13	gekitz	UIDevice-with-UniqueIdentifier-for-iOS-5	0	Brings back the unique identifier support under iOS 5, it uses the device's mac address in combination with the bundle identifier to generate a new hashed unique identifier.	https://github.com/gekitz/UIDevice-with-UniqueIdentifier-for-iOS-5		1158	181
+14	macmade	OpenCV-iOS	0	This project is a port of the OpenCV library for Apple iOS. It includes two XCode projects: one for iPhone, the other one for iPad.	https://github.com/macmade/OpenCV-iOS	http://www.eosgarden.com/en/opensource/opencv-ios/	264	54
+15	mtigas	iOS-OnionBrowser	0	An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network	https://github.com/mtigas/iOS-OnionBrowser	http://onionbrowser.com/	289	48
+16	chrisballinger	Off-the-Record-iOS	0	"ChatSecure is a simple multiprotocol IM client for iOS that supports encrypted ""Off-the-Record"" messaging using Cypherpunks' libotr"	https://github.com/chrisballinger/Off-the-Record-iOS	https://chatsecure.org	242	84
+17	xcatsan	iOS-Sample-Code	0	iOS Sample Code	https://github.com/xcatsan/iOS-Sample-Code	http://cocoadays.blogspot.com/	195	46
+18	honcheng	iOS-StyledPageControl	0	Customizable PageControl for iOS	https://github.com/honcheng/iOS-StyledPageControl	http://honcheng.com	274	56
+19	forcedotcom	SalesforceMobileSDK-iOS	0	Force.com mobile SDK for iOS applications	https://github.com/forcedotcom/SalesforceMobileSDK-iOS	https://github.com/forcedotcom/SalesforceMobileSDK-iOS	169	81
+20	mattneub	Programming-iOS-Book-Examples	0	"Downloadable code examples for my book, ""Programming iOS 6""."	https://github.com/mattneub/Programming-iOS-Book-Examples	http://www.tidbits.com/matt	249	56
+21	doukasd	iOS-Components	0	Misc components for the iOS. Just random stuff really but hopefully useful. Watch it or follow @doukasd for updates.	https://github.com/doukasd/iOS-Components	http://dev.doukasd.com	187	37
+22	AviaryInc	Mobile-Feather-SDK-for-iOS	0	Aviary's photo editing SDK for iOS. Please email api@aviary.com with feedback/issues.	https://github.com/AviaryInc/Mobile-Feather-SDK-for-iOS	http://developers.aviary.com	354	62
+23	bitstadium	HockeySDK-iOS	0	The official iOS SDK for the HockeyApp service (Releases are in the master branch, current development in the default develop branch)	https://github.com/bitstadium/HockeySDK-iOS	http://hockeyapp.net/releases	93	43
+24	acoomans	iOS-MagnifyingGlass	0	A magnifying glass for iOS	https://github.com/acoomans/iOS-MagnifyingGlass		153	29
+25	kulpreetchilana	Custom-iOS-Keyboards	0	Easily customizable custom inputView for iOS that imitates the native iOS keyboard.	https://github.com/kulpreetchilana/Custom-iOS-Keyboards		143	26
+26	iFixit	iFixit-iOS	0	iFixit's iOS app for iPad, iPhone, and iPod touch	https://github.com/iFixit/iFixit-iOS	http://itunes.apple.com/us/app/ifixit-repair-manual/id407417097?mt=8	72	26
+27	ColinEberhardt	iOS-ClearStyle	0	This project is a gesture-driven iOS to-do list application modelled on the iPhone Clear application.	https://github.com/ColinEberhardt/iOS-ClearStyle		80	35
+28	funkyboy	Building-a-Jabber-client-for-iOS	0	"Source code for the tutorial ""Building a Jabber client for iOS"""	https://github.com/funkyboy/Building-a-Jabber-client-for-iOS	http://mobile.tutsplus.com/tutorials/iphone/building-a-jabber-client-for-ios-server-setup/	137	54
+29	akopanev	iOS-Scratch-n-See	0	The project provides en effect when the user swipes the finger over one texture and by swiping reveals the texture underneath it. The effect can be applied for scratch-card action or wiping a misted glass.	https://github.com/akopanev/iOS-Scratch-n-See	http://www.cocoacontrols.com/platforms/ios/controls/scratch-n-see	140	29
+30	mtigas	iOS-MapLayerDemo	0	Demo of using MKOverlayView (iOS 4.0) to render custom tile server overlays in a native iPhone app.	https://github.com/mtigas/iOS-MapLayerDemo		188	23
+31	kwylez	Universal-iOS-App-Template	0	iPad/iPhone Universal App Template	https://github.com/kwylez/Universal-iOS-App-Template		108	33
+32	britg	MultistrokeGestureRecognizer-iOS	0	A library for defining and detecting multi-stroke gestures created through touch-input on iOS devices	https://github.com/britg/MultistrokeGestureRecognizer-iOS		153	25
+33	insurgentgames	Skeleton-Key-iOS	0	iPhone and iPod Touch version of Skeleton Key: is an addictive and unique puzzle game in which you shift keys around the board unlocking treasure chests. Made with cocos2d-iphone.	https://github.com/insurgentgames/Skeleton-Key-iOS	http://www.insurgentgames.com/skeleton-key/	90	23
+34	orbotix	Sphero-iOS-SDK	0	Sphero™ is the amazing robotic ball ( gosphero.com ) created by Orbotix, this is the repository for the iOS SDK for Sphero™. Visit dev site for more information:	https://github.com/orbotix/Sphero-iOS-SDK	developer.gosphero.com	76	26
+35	scarnie	iCade-iOS	0	MIT-licensed iOS SDK for iCade and iControlPad, including sample application	https://github.com/scarnie/iCade-iOS		100	13
+36	liveservices	LiveSDK-for-iOS	0	Live SDK for iOS	https://github.com/liveservices/LiveSDK-for-iOS		73	32
+37	nothingmagical	cheddar-ios	0	Cheddar for iOS	https://github.com/nothingmagical/cheddar-ios	https://cheddarapp.com/ios	2324	476
+38	facebook	facebook-ios-sdk	0	Facebook SDK for iOS	https://github.com/facebook/facebook-ios-sdk	developers.facebook.com	3765	1294
+39	honcheng	StyledTableViewCell-for-iOS	0	Customize table view cell border and highlights	https://github.com/honcheng/StyledTableViewCell-for-iOS		157	26
+40	zimok	GoogleReaderAPI-iOS	0	Not mantained anymore! Check the README. An Objective-C wrapper around (unofficial) Google Reader API for iOS Apps. This is very ALPHA stage. 	https://github.com/zimok/GoogleReaderAPI-iOS		74	25
+41	hayashi311	Color-Picker-for-iOS	0	ColorPicker for iPhone and iPod touch	https://github.com/hayashi311/Color-Picker-for-iOS		96	20
+42	mjisrawi	iOS-Geocoding-Services	0	Custom lightweight iOS forward and reverse geocoding services using Google's JSON geocoding API (v3) 	https://github.com/mjisrawi/iOS-Geocoding-Services		51	19
+43	honcheng	SliderPageControl-for-iOS	0	An alternative for UIPageControl	https://github.com/honcheng/SliderPageControl-for-iOS	http://honcheng.com	128	24
+44	couchbaselabs	iOS-Couchbase-Demo	0	Mobile Couchbase demo app for iOS	https://github.com/couchbaselabs/iOS-Couchbase-Demo		80	14
+45	OiNutter	Coderwall-iOS	0	iOS app for Coderwall.com	https://github.com/OiNutter/Coderwall-iOS		60	14
+46	MetaWatchOpenProjects	MWM-for-iOS-Gen1	0	iOS application project that demonstrates connectivity with Meta Watch Bluetooth 4.0 capable watches	https://github.com/MetaWatchOpenProjects/MWM-for-iOS-Gen1		75	28
+47	SlavaBushtruk	Alterplay-iOS-dev-tips	0	We often discover simple solution while working on our games and apps for iPhone	https://github.com/SlavaBushtruk/Alterplay-iOS-dev-tips	http://www.alterplay.com/ios-dev-tips/	88	15
+48	Frahaan	2012-Olympics-iOS--iPad-and-iPhone--source-code	0	Here is the source code for my 2012 Olympics app for every iOS device, app store link (http://itunes.apple.com/us/app/2012-olympics/id436759882?mt=8&ls=1). Developer website (http://www.thunderkeybolt.com)	https://github.com/Frahaan/2012-Olympics-iOS--iPad-and-iPhone--source-code	http://itunes.apple.com/us/app/2012-olympics/id436759882?mt=8&ls=1	98	41
+49	mobilerengler	iOS-Adaptive-Metal-Knob	0	A knob made in iOS that simulates real-time reflection updates on a brushed metal surface	https://github.com/mobilerengler/iOS-Adaptive-Metal-Knob		142	11
+50	modolabs	Kurogo-iOS	0	Kurogo for iOS is a framework for developing native iOS client apps in conjunction with Kurogo.  Kurogo (https://github.com/modolabs/Kurogo-Mobile-Web) is a PHP framework for delivering high quality, data driven customizable content to a wide range of mobile devices.	https://github.com/modolabs/Kurogo-iOS		39	17
+51	AFNetworking	AFNetworking	0	A delightful iOS and OS X networking framework	https://github.com/AFNetworking/AFNetworking	http://afnetworking.com	6767	1521
+52	CabForward	iOS-on-Rails	0	Course Materials and Assignments for iOS on Rails Course	https://github.com/CabForward/iOS-on-Rails		32	19
+53	erica	iOS-6-Advanced-Cookbook	0	Recipes for working with the advanced features of iOS 6	https://github.com/erica/iOS-6-Advanced-Cookbook		59	16
+54	noradaiko	ZenPlayer-for-iOS	0	ZenPlayer wrote with objective-c	https://github.com/noradaiko/ZenPlayer-for-iOS		76	13
+55	timd	Pro-iOS-TableViews	0	Code for Pro iOS TableViews book	https://github.com/timd/Pro-iOS-TableViews	http://adoptioncurve.net/writing	48	17
+56	honcheng	AcornCharts-for-iOS	0	Fun way to display charts using balls that responds to device tilting 	https://github.com/honcheng/AcornCharts-for-iOS		87	11
+57	mateagar	Motion-JPEG-Image-View-for-iOS	0	Generic UIImageView subclass designed to load and play Motion-JPEG streams such as commonly used with IP cameras, etc.	https://github.com/mateagar/Motion-JPEG-Image-View-for-iOS	http://thinkflood.com/support/redeye/software/open-source-software/motion-jpeg-image-view-ios/	65	20
+58	mneuwert	iOS-Custom-Controls	0		https://github.com/mneuwert/iOS-Custom-Controls		37	13
+59	cocoacamp	CocoaCamp-iOS-App	0	iOS App for the (un)conference event of people interested in developing on the iPad, iPhone, iPod touch & Mac OS X.	https://github.com/cocoacamp/CocoaCamp-iOS-App	http://www.cocoacamp.org	43	16
+60	vfr	Reader	0	PDF Reader Core for iOS	https://github.com/vfr/Reader	http://www.vfr.org/	1442	344
+61	vvanhee	Google-Local-Search-iOS	0	Find businesses / other locations by name or address using Google's Local Search API JSON interface (in Objective C, for iPhone SDK).	https://github.com/vvanhee/Google-Local-Search-iOS	http://www.totagogo.com/2011/02/08/google-local-search-ios-code/	50	14
+62	jameswomack	iOS-Image-Filters	0	High-level image filtering on iOS 5+ using CoreImage & raster graphic overlays	https://github.com/jameswomack/iOS-Image-Filters		43	11
+63	floriankrueger	iOS-Examples--UITableView-Combo-Box	0	A small example on how to create UITableViews with Combo Box styled UITableViewCells	https://github.com/floriankrueger/iOS-Examples--UITableView-Combo-Box		61	18
+64	AndreaBarbon	Puzzle-iOS	0		https://github.com/AndreaBarbon/Puzzle-iOS		19	20
+65	allending	Kiwi	0	BDD for iOS	https://github.com/allending/Kiwi		979	128
+66	honcheng	iOS-nodechat	0	iOS chat client for socket.io & node.js backend	https://github.com/honcheng/iOS-nodechat	http://honcheng.com	54	9
+67	StonerHawk	Vkontakte-iOS-SDK	0	Vkontakte API implementation	https://github.com/StonerHawk/Vkontakte-iOS-SDK		33	12
+68	brynbellomy	iOS-DragAndDrop	0	Versatile, easily configurable drag and drop classes for iPhone and iPad.	https://github.com/brynbellomy/iOS-DragAndDrop	http://robotbubblesort.tumblr.com/post/26340913733/drag-and-drop-on-ios	60	11
+69	simplegeo	SimpleGeo-iOS	0		https://github.com/simplegeo/SimpleGeo-iOS		28	13
+70	FLCLjp	iOS-GPX-Framework	0	This is an iOS framework for parsing/generating GPX files.	https://github.com/FLCLjp/iOS-GPX-Framework	http://gpxframework.com	34	11
+71	darvin	SparkleShare-iOS	0	iOS Client for SparkleShare	https://github.com/darvin/SparkleShare-iOS	http://bit.ly/zA54N5	37	10
+72	michaeltyson	iOS-Universal-Library-Template	0	An Xcode 4 project template to create universal (armv6, armv7 and simulator) frameworks for iOS. 	https://github.com/michaeltyson/iOS-Universal-Library-Template		69	9
+73	chrisballinger	FFmpeg-iOS-Encoder	0	Encode video and audio from the camera and microphone using FFmpeg	https://github.com/chrisballinger/FFmpeg-iOS-Encoder		29	11
+74	bontoJR	iOS-JSON-Performance	0	A project to test iOS JSON libraries	https://github.com/bontoJR/iOS-JSON-Performance	http://www.bonto.ch/blog/2011/12/08/json-libraries-for-ios-comparison-updated/	39	9
+75	mwaterfall	MWPhotoBrowser	0	A simple iOS photo browser.	https://github.com/mwaterfall/MWPhotoBrowser	twitter.com/mwaterfall	988	256
+76	markrickert	iOS-PagePeel-Example	0	Example Xcode project that shows how to replicate the cool iOS page peel effect. Detailed in a blog post here: http://skookum.com/blog/ios-peeling-effect/	https://github.com/markrickert/iOS-PagePeel-Example		64	9
+77	bennyguitar	iOS----BubbleButtonView	0	Dynamically fill a UIView with rounded-corner UIButtons based off of an array of strings. This class also sequentially animates the adding and removing of buttons for a nice UI touch.	https://github.com/bennyguitar/iOS----BubbleButtonView		45	11
+78	iclems	iOS-htmltopdf	0		https://github.com/iclems/iOS-htmltopdf		24	12
+79	jverkoey	nimbus	0	The iOS framework that grows only as fast as its documentation	https://github.com/jverkoey/nimbus	nimbuskit.info	2666	496
+80	RestKit	RestKit	0	RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X	https://github.com/RestKit/RestKit	http://www.restkit.org/	4209	1032
+81	paypal	PayPal-iOS-SDK	0	Accept credit cards and PayPal in your iOS app	https://github.com/paypal/PayPal-iOS-SDK		43	10
+82	alanzeino	iOS-CSE-Class-1	0	The repository for class 1.	https://github.com/alanzeino/iOS-CSE-Class-1		20	18
+83	opentok	OpenTok-iOS-Hello-World	0	A simple demonstration of the OpenTok iOS SDK to get you started	https://github.com/opentok/OpenTok-iOS-Hello-World	http://www.tokbox.com/opentok/ios/docs/index.html	29	19
+84	Singly	iOS-SDK	0	iOS SDK for Singly	https://github.com/Singly/iOS-SDK		22	11
+85	chrisballinger	Cop-Recorder-iOS	0	Cop Recorder for iOS Devices - www.openwatch.net	https://github.com/chrisballinger/Cop-Recorder-iOS	http://itunes.apple.com/us/app/cop-recorder!/id433040863?mt=8	29	9
+86	route-me	route-me	0	Open source map library for iOS	https://github.com/route-me/route-me		909	355
+87	kissmetrics	KISSmetrics-iOS-Mac-OS-X-Library	0	Use the new KISSmetrics iOS/OS X Library to track your mobile/desktop app metrics	https://github.com/kissmetrics/KISSmetrics-iOS-Mac-OS-X-Library	http://www.kissmetrics.com	24	14
+88	500px	500px-iOS-api	0	500px API Wrapper for Objective-C	https://github.com/500px/500px-iOS-api		37	10
+89	GrioSF	Android-Pattern-Lock-on-iOS	0	Sample app that demonstrates the implementation of Android pattern lock on iOS	https://github.com/GrioSF/Android-Pattern-Lock-on-iOS	http://blog.grio.com/2011/11/android-pattern-lock-on-iphone.html	55	11
+90	escoz	QuickDialog	0	QuickDialog - Quick and easy dialog screens for iOS	https://github.com/escoz/QuickDialog	http://escoz.com/open-source/quickdialog	2139	380
+91	samvermette	SVProgressHUD	0	A clean and lightweight progress HUD for your iOS app.	https://github.com/samvermette/SVProgressHUD	http://samvermette.com/199	2055	352
+92	me2day	libPhoneNumber-iOS	0	iOS library for parsing, formatting, storing and validating international phone numbers from libphonenumber library.	https://github.com/me2day/libPhoneNumber-iOS		62	7
+93	maniacdev	iOS-Balloon-Game-Tutorial	0	These are the source code files for the related iPhone game tutorial created with the Sparrow Framework.	https://github.com/maniacdev/iOS-Balloon-Game-Tutorial	http://maniacdev.com/2010/08/beginners-iphone-action-game-tutorial/	24	12
+94	bigjko	Flx-iOS-template	0	Unofficial Flixel iOS template for Xcode	https://github.com/bigjko/Flx-iOS-template		71	5
+95	cocos2d	cocos2d-iphone	0	cocos2d for iOS and OS X, built using Objective-C	https://github.com/cocos2d/cocos2d-iphone	http://www.cocos2d-iphone.org	2676	680
+96	BradLarson	GPUImage	0	An open source iOS framework for GPU-based image and video processing	https://github.com/BradLarson/GPUImage	http://www.sunsetlakesoftware.com/2012/02/12/introducing-gpuimage-framework	2972	682
+97	MugunthKumar	MKStoreKit	0	In-App Purchases StoreKit for iOS devices	https://github.com/MugunthKumar/MKStoreKit	http://blog.mugunthkumar.com/coding/mkstorekit-4-0-supporting-auto-renewable-subscriptions	1037	208
+98	ericjohnson	canabalt-ios	0	Open source release of Canabalt for iOS	https://github.com/ericjohnson/canabalt-ios	www.semisecretsoftware.com	1233	162
+99	anton-nikan	iOS-Animation-Kit	0	Animation Kit for frame animation on iOS	https://github.com/anton-nikan/iOS-Animation-Kit		43	6
+100	mhausherr	Light-Untar-for-iOS	0	Very light and pragmatic untar utility for iOS	https://github.com/mhausherr/Light-Untar-for-iOS		25	11
+101	pkyeck	socket.IO-objc	0	socket.io v0.7.2+ for iOS devices	https://github.com/pkyeck/socket.IO-objc		625	136
+102	robbiehanson	CocoaAsyncSocket	0	Asynchronous socket networking library for Mac and iOS	https://github.com/robbiehanson/CocoaAsyncSocket		1385	329
+103	devinross	tapkulibrary	0	tap + haiku = tapku, a well crafted open source iOS framework	https://github.com/devinross/tapkulibrary	http://devinsheaven.com/tapku/documentation	3119	487
+104	honcheng	iOSPlot	0	Chart library for iOS	https://github.com/honcheng/iOSPlot	http://honcheng.com	684	121
+105	gdavis	iOS-CoreImage-Camera	0	Test project for using CoreImage with AVFoundation Camera Capture	https://github.com/gdavis/iOS-CoreImage-Camera		37	8
+106	square	KIF	0	Keep It Functional - An iOS Functional Testing Framework	https://github.com/square/KIF		1511	258
+107	mwaterfall	MWFeedParser	0	An Objective-C RSS / Atom Feed Parser for iOS	https://github.com/mwaterfall/MWFeedParser	twitter.com/mwaterfall	1128	305
+108	Inferis	ViewDeck	0	An implementation of the sliding functionality found in the Path 2.0 or Facebook iOS apps.	https://github.com/Inferis/ViewDeck		2624	472
+109	FLCLjp	iOS-KML-Framework	0	This is an iOS framework for parsing/generating KML files.	https://github.com/FLCLjp/iOS-KML-Framework	http://kmlframework.com	33	6
+110	gavinkwoe	BeeFramework	0	A Powerful rapid MVC framework for iOS	https://github.com/gavinkwoe/BeeFramework	http://www.bee-framework.com	460	234
+111	tombenner	nui	0	Style iOS apps with a style sheet, similar to CSS	https://github.com/tombenner/nui		1835	186
+112	nicklockwood	iCarousel	0	A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS	https://github.com/nicklockwood/iCarousel	http://www.charcoaldesign.co.uk/source/cocoa#icarousel	2020	442
+113	openplans	OpenTripPlanner-iOS	0	An iOS app that gives users the ability to plan trip itineraries powered by OpenTripPlanner.	https://github.com/openplans/OpenTripPlanner-iOS		35	7
+114	robbiehanson	XMPPFramework	0	An XMPP Framework in Objective-C for Mac and iOS	https://github.com/robbiehanson/XMPPFramework		799	283
+115	codenauts	HockeySDK-iOS	0		https://github.com/codenauts/HockeySDK-iOS		40	5
+116	brierwood	RunKeeper-iOS	0	An iOS RunKeeper API module	https://github.com/brierwood/RunKeeper-iOS		17	8
+117	JamesBrocklehurst	Portfolio-iOS-App	0	Basic template for an iPhone porfolio app	https://github.com/JamesBrocklehurst/Portfolio-iOS-App		14	9
+118	mateagar	Color-Picker-for-iOS	0	Reusable user interface control for selecting RGB, HSV, or Hexadecimal colors in iOS applications.	https://github.com/mateagar/Color-Picker-for-iOS	http://thinkflood.com/support/redeye/software/open-source-software/color-picker-ios/	29	7
+119	OmidH	Filtrr	0	iOS Image filter library	https://github.com/OmidH/Filtrr		469	79
+120	soffes	sstoolkit	0	A collection of well-documented iOS classes for making life easier	https://github.com/soffes/sstoolkit	http://sstoolk.it	1830	308
+121	coneybeare	UAModalPanel	0	An animated modal panel alternative for iOS	https://github.com/coneybeare/UAModalPanel	http://code.coneybeare.net/uamodalpanel-an-open-source-modal-panel-alter	694	106
+122	moredip	Frank	0	Automated acceptance tests for native iOS apps	https://github.com/moredip/Frank	www.testingwithfrank.com	892	191
+123	linkedin	LIExposeController	0	Expose style navigation for iOS apps	https://github.com/linkedin/LIExposeController		737	103
+124	addimage	iOS	0	iOS libraries	https://github.com/addimage/iOS		2	7
+125	domesticcatsoftware	DCIntrospect	0	Small library of visual debugging tools for iOS.	https://github.com/domesticcatsoftware/DCIntrospect	domesticcat.com.au/projects/introspect	1383	137
+126	tciuro	NoticeView	0	A TweetBot-like notice component for iOS.	https://github.com/tciuro/NoticeView		637	105
+127	rbreve	iOS-Image-Filters	0	iOS Image Filters like instagram using Core Image	https://github.com/rbreve/iOS-Image-Filters		22	6
+128	lomanf	PaperStack	0	iOS Page Curl filter	https://github.com/lomanf/PaperStack	http://api.mutado.com/mobile/paperstack/	374	82
+129	kevingibbon	KGStatusBar	0	A minimal status bar for iOS. 	https://github.com/kevingibbon/KGStatusBar		544	63
+130	boos1993	iOS-Syntax-Highlighter	0	A subclassed UITextView that highlights syntax	https://github.com/boos1993/iOS-Syntax-Highlighter		21	6
+131	betzerra	MosaicUI	0	A tiled UI for iOS and iPhone	https://github.com/betzerra/MosaicUI		480	62
+132	sobri909	MGBox2	0	Simple, quick iOS tables, grids, and more	https://github.com/sobri909/MGBox2		981	146
+133	wordpress-mobile	WordPress-iOS	0	Mirror of WordPress for iOS. Accepting pull requests. Public SVN: http://ios.svn.wordpress.org Trac: http://ios.trac.wordpress.org	https://github.com/wordpress-mobile/WordPress-iOS		8	10
+134	PrimaryFeather	Sparrow-Framework	0	The Open Source Game Engine for iOS	https://github.com/PrimaryFeather/Sparrow-Framework	http://www.sparrow-framework.org	506	102
+135	DuncanMC	iOS-CAAnimation-group-demo	0	This is a demo project that illustrates various 	https://github.com/DuncanMC/iOS-CAAnimation-group-demo		22	7
+136	kishikawakatsumi	ClassicMap	0	Google Map is back to iOS 6.	https://github.com/kishikawakatsumi/ClassicMap		544	89
+137	robbiehanson	CocoaLumberjack	0	A fast & simple, yet powerful & flexible logging framework for Mac and iOS	https://github.com/robbiehanson/CocoaLumberjack		1390	240
+138	biznickman	Custom-iOS-Tab-Bar	0	A really simple way of customizing an iOS tab bar with little effort.	https://github.com/biznickman/Custom-iOS-Tab-Bar		73	4
+139	kolinkrewinkel	KKGridView	0	Deprecated: See the readme for more info. — Gridview for iOS.	https://github.com/kolinkrewinkel/KKGridView	https://github.com/kolinkrewinkel/KKGridView	784	136
+140	stuartkhall	iOS-Buttons	0	Simple scalable iOS buttons	https://github.com/stuartkhall/iOS-Buttons		25	5
+141	ptshih	PSCollectionView	0	A simple open source implementation of a Pinterest Pinboard for iOS	https://github.com/ptshih/PSCollectionView		623	161
+142	mattt	GroundControl	0	Remote configuration for iOS	https://github.com/mattt/GroundControl		697	41
+143	mikefrederick	MFSideMenu	0	Facebook-like side menu for iOS	https://github.com/mikefrederick/MFSideMenu		469	97
+144	aleksbreian1103	iOS	0	iOS Coding Together	https://github.com/aleksbreian1103/iOS		9	6
+145	felipek	Consumo-iOS	0	iOS client for Consumo framework	https://github.com/felipek/Consumo-iOS		24	5
+146	ud7	iLabyrinth	0	iOS game	https://github.com/ud7/iLabyrinth	http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=380886785&mt=8	139	50
+147	xissburg	XBPageCurl	0	A decent page curl transition for iOS.	https://github.com/xissburg/XBPageCurl		500	77
+148	tochi	custom-callout-sample-for-iOS	0	Custom callout sample for iOS.	https://github.com/tochi/custom-callout-sample-for-iOS	http://www.aguuu.com/archives/2011/05/ios-custom-callout/	25	8
+149	microsoft-hsg	HealthVault-Mobile-iOS-Library	0	The HealthVault team has recently added the capability to write applications that will run on Mobile Devices and connect directly to the HealthVault Service. HealthVault iOS library enables developers to write iOS applications which interact with a user's personally controlled health record. The “go live” process to deploy an application against the production HealthVault service can be found at http://msdn.microsoft.com/en-us/healthvault/bb962148. Information about the API that the HealthVault service exposes can be in the documentation in HealthVault .NET SDK.	https://github.com/microsoft-hsg/HealthVault-Mobile-iOS-Library	http://msdn.com/healthvault	31	7
+150	samvermette	SVWebViewController	0	A drop-in inline browser for your iOS app.	https://github.com/samvermette/SVWebViewController	http://samvermette.com/173	655	133
+151	ustwo	US2FormValidator	0	Form validation framework for iOS.	https://github.com/ustwo/US2FormValidator		396	51
+152	3taps	3taps-iOS-Client	0	Official 3taps iOS API client library	https://github.com/3taps/3taps-iOS-Client	http://3taps.com/developers	17	7
+153	samvermette	SVSegmentedControl	0	A UISwitch-like segmented control for your iOS app.	https://github.com/samvermette/SVSegmentedControl	http://samvermette.com/255	738	104
+154	robbiehanson	CocoaHTTPServer	0	A small, lightweight, embeddable HTTP server for Mac OS X or iOS applications	https://github.com/robbiehanson/CocoaHTTPServer		929	213
+155	WhisperSystems	TextSecure-iOS	0		https://github.com/WhisperSystems/TextSecure-iOS		31	4
+156	masbog	PrivateFrameworkHeader-iOS-iPhone-5.-	0	Header of privete framework iOS iPhone 5.0.*	https://github.com/masbog/PrivateFrameworkHeader-iOS-iPhone-5.-		19	10
+157	spoletto	SquareQuote	0	SquareQuote for iOS	https://github.com/spoletto/SquareQuote	https://squarequote.it/	172	32
+158	dennisreimann	ioctocat	0	GitHub App for iOS (works on the iPhone, iPad, and iPod Touch)	https://github.com/dennisreimann/ioctocat	http://ioctocat.com/	1202	149
+159	TheRealKerni	QuincyKit	0	Live crash report management for iOS and Mac OS X. AppStore ready on iOS only! Follow news on Twitter via @hockeyapp	https://github.com/TheRealKerni/QuincyKit	http://quincykit.net	1013	185
+160	acti0nm4n	Phonegap-Orientation-iOS	0	phonegap-orientation-ios	https://github.com/acti0nm4n/Phonegap-Orientation-iOS		11	7
+161	steipete	PSFoundation	0	Categories and helper classes for iOS projects.	https://github.com/steipete/PSFoundation	http://twitter.com/steipete	482	59
+162	evernote	evernote-sdk-ios	0	Evernote SDK for iOS	https://github.com/evernote/evernote-sdk-ios		230	58
+163	MugunthKumar	MKNetworkKit	0	ARC ready Networking Framework with built in authentication and HTTP 1.1 caching standards support for iOS 5+ devices	https://github.com/MugunthKumar/MKNetworkKit	http://mk.sg/8w	1600	349
+164	alikaragoz	AKTabBarController	0	Adaptative and customizable tab bar for iOS.	https://github.com/alikaragoz/AKTabBarController		336	67
+165	kokoabim	iOSOpenDev	0	iOS Open Development	https://github.com/kokoabim/iOSOpenDev	http://www.iOSOpenDev.com	196	57
+166	ylechelle	OpenUDID	0	Open source initiative for a universal and persistent UDID solution for iOS	https://github.com/ylechelle/OpenUDID	OpenUDID.org	821	155
+167	opentok	OpenTok-iOS-Basic-Tutorial	0	A demonstration of the OpenTok iOS SDK	https://github.com/opentok/OpenTok-iOS-Basic-Tutorial	http://www.tokbox.com/opentok/ios/docs/index.html	15	9
+168	kuapay	iOS-Certificate--Key--and-Trust-Sample-Project	0	This project derives content heavily from iOS Certificate, Key, and Trust Programming guide.  It's primary purpose is to give the user the ability to quickly import/export RSA private keys from the keychain to the console.	https://github.com/kuapay/iOS-Certificate--Key--and-Trust-Sample-Project	https://www.kuapay.com	31	8
+169	anton-nikan	iOS-Game-Center-Cache	0	Complete scoring/achievements solution with weak linkage to Game Center	https://github.com/anton-nikan/iOS-Game-Center-Cache		39	4
+170	wikimedia	Commons-iOS	0	Wikimedia Commons uploader app for iOS	https://github.com/wikimedia/Commons-iOS		8	7
+171	airbrake	airbrake-ios	0	A Airbrake Notifier for iOS	https://github.com/airbrake/airbrake-ios	http://airbrake.io/pages/ios-notifier	207	53
+172	doubleencore	DETweetComposeViewController	0	The iOS 4 compatible Tweet Sheet.	https://github.com/doubleencore/DETweetComposeViewController		324	64
+173	jefflinwood	Drupal-Plugin-for-PhoneGap-for-iOS	0	Connect to Drupal Services with PhoneGap	https://github.com/jefflinwood/Drupal-Plugin-for-PhoneGap-for-iOS	http://www.jefflinwood.com/	37	7
+174	dlinsin	DLStarRating	0	iOS star rating component 	https://github.com/dlinsin/DLStarRating	http://dlinsin.github.com/2011/01/10/five-star-rating.html	227	46
+175	nfarina	calloutview	0	A lightweight callout view class for iOS mimicking UICalloutView.	https://github.com/nfarina/calloutview	http://nfarina.com/post/29883229869/callout-view	604	77
+176	kstenerud	KSCrash	0	The Ultimate iOS Crash Reporter	https://github.com/kstenerud/KSCrash		340	35
+177	miquelcamps	Freelance-Betabeers-iOS-app	0		https://github.com/miquelcamps/Freelance-Betabeers-iOS-app		11	8
+178	chrismaddern	iOS-Split-A-B-Test-Library	0	An iOS Library to support A/B Testing remotely defined values in Apps and reporting back to a server. Includes native controls for A/B Testing UIButton text and background image. Includes generic ABTestCase for testing any NSString value.	https://github.com/chrismaddern/iOS-Split-A-B-Test-Library	http://www.chrismaddern.com/ab-split-testing-lean-experiments-on-mobile-ios-iphone/	37	5
+179	neror	CA360	0	Core Animation iOS example code. Lots of it.	https://github.com/neror/CA360	http://neror.github.com/CA360	624	66
+180	tonymillion	Reachability	0	ARC and GCD Compatible Reachability Class for iOS and MacOS. Drop in replacement for Apple Reachability	https://github.com/tonymillion/Reachability		1329	261
+181	TheAKDev	iOS-Tree-Component	0	This is a tree control that works on iOS devices	https://github.com/TheAKDev/iOS-Tree-Component		21	4
+182	ajerez	AJNotificationView	0	Notice component for iOS	https://github.com/ajerez/AJNotificationView		238	39
+183	peterhajas	MobileNotifier	0	iOS Notifications. Done right.	https://github.com/peterhajas/MobileNotifier		314	32
+184	innoying	iOS-sbutils	0	iOS utilities - replaces some broken Erica utilities and adds a bunch of new ones	https://github.com/innoying/iOS-sbutils		21	4
+185	Shopify	superdb	0	The Super Debugger, a realtime wireless debugger for iOS	https://github.com/Shopify/superdb	http://shopify.github.com/superdb	745	55
+186	izqui	SHSidebarController	0	Sidebar with folding effect for iOS	https://github.com/izqui/SHSidebarController		151	52
+187	carlbrown	iOS-CoSpace-Fall2012	0	Homework Base for Fall 2012 iOS class at cospace.co	https://github.com/carlbrown/iOS-CoSpace-Fall2012		1	11
+188	myell0w	MTStatusBarOverlay	0	A custom iOS status bar overlay seen in Apps like Reeder, Evernote and Google Mobile App	https://github.com/myell0w/MTStatusBarOverlay		1441	227
+189	foursquare	FSNetworking	0	foursquare iOS networking library	https://github.com/foursquare/FSNetworking		267	33
+190	Countly	countly-sdk-ios	0	Countly Mobile Analytics - iOS SDK	https://github.com/Countly/countly-sdk-ios	http://count.ly	244	56
+191	vokalinteractive	NetworkUtility-iOS	0		https://github.com/vokalinteractive/NetworkUtility-iOS		3	6
+192	defagos	CoconutKit	0	CoconutKit is a library of high-quality iOS components	https://github.com/defagos/CoconutKit		675	52
+193	phoboslab	Ejecta	0	A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS	https://github.com/phoboslab/Ejecta		855	97
+194	uqtimes	iOS-SampleCodes	0	iOSで動作するサンプルコード集です。	https://github.com/uqtimes/iOS-SampleCodes		7	6
+195	brunow	NoteItIOS	0	Ios markdown notebook	https://github.com/brunow/NoteItIOS	https://twitter.com/brunowernimont	194	40
+196	dominikhofmann	PRTween	0	Lightweight tween library for iOS	https://github.com/dominikhofmann/PRTween		257	32
+197	dhennessy	PAPasscode	0	Passcode view controller for iOS	https://github.com/dhennessy/PAPasscode		232	35
+198	dimzzy	BaseAppKit	0	Base classes for iOS apps	https://github.com/dimzzy/BaseAppKit	http://baseappkit.com	195	39
+199	Pablo-Merino	About-me-info-for-iOS	0	This is an premade version of about me iOS RootViewController. Easy to use, just replace images and done.	https://github.com/Pablo-Merino/About-me-info-for-iOS		21	6
+200	ebutterfly	EBPurchase	0	Simple In-App Purchase for iOS	https://github.com/ebutterfly/EBPurchase		212	37
+201	marcuswestin	WebViewJavascriptBridge	0	A standalone iOS class for sending messages to and from javascript in a UIWebView	https://github.com/marcuswestin/WebViewJavascriptBridge	https://twitter.com/marcuswestin	659	117
+202	thermogl	TITokenField	0	An iOS version of the NSTokenField (See To: field in Mail and Messages).	https://github.com/thermogl/TITokenField	http://thermoglobalnuclearwar.com/opensource/	350	79
+203	gresrun	GHSidebarNav	0	A clone of the new Facebook iOS UI paradigm	https://github.com/gresrun/GHSidebarNav		376	77
+204	BigZaphod	Chameleon	0	Chameleon is a port of Apple's UIKit for iOS (and some minimal related frameworks) to Mac OS X.	https://github.com/BigZaphod/Chameleon	http://chameleonproject.org/	1724	178
+205	jasonmorrissey	JMTabView	0	Stylish and animated tab view for iOS rendered entirely using core graphics.	https://github.com/jasonmorrissey/JMTabView		756	104
+206	Kjuly	iPokeMon	0	PokéMon like game on iOS with Location Based Service.	https://github.com/Kjuly/iPokeMon	http://dev.kjuly.com/iPokeMon	260	94
+207	dexterous	iOS-Acceptance-Testing	0	iOS automation scripts put together to demo UIAutomation and iCuke	https://github.com/dexterous/iOS-Acceptance-Testing		18	4
+208	carsonmcdonald	WebP-iOS-example	0	Script to build libwebp for iOS + example of use	https://github.com/carsonmcdonald/WebP-iOS-example	https://github.com/carsonmcdonald/WebP-iOS-example	27	4
+209	baztokyo	foursquare-ios-api	0	Foursquare API v2 for iOS	https://github.com/baztokyo/foursquare-ios-api		191	38
+210	TheRealKerni	HockeyKit	0	A software update kit for iOS and Android. Provided as is. For more functionality and maintained work, check out @hockeyapp	https://github.com/TheRealKerni/HockeyKit	http://hockeykit.net/	1308	202
+211	alexbw	novocaine	0	Painless high-performance audio on iOS and Mac OS X	https://github.com/alexbw/novocaine	http://alexbw.github.com/novocaine/	916	85
+212	square	PonyDebugger	0	Remote network and data debugging for your native iOS app using Chrome Developer Tools	https://github.com/square/PonyDebugger		1686	152
+213	jaykz52	CKCalendar	0	A sleek, easily customized calendar control for iOS.	https://github.com/jaykz52/CKCalendar	www.cozykozy.com	341	74
+214	PinkelStar	pinkelstar-iOS	0	The PinkelStar iOS Framework and UI	https://github.com/PinkelStar/pinkelstar-iOS	www.pinkelstar.com	17	4
+215	werner77	WEPopover	0	Generic popover implementation for iOS with same API as the UIPopoverController for the iPad, but configurable with custom background and available for iPhone as well.	https://github.com/werner77/WEPopover	www.werner-it.com	854	252
+216	apache	cordova-ios	0	Mirror of Apache Cordova iOS	https://github.com/apache/cordova-ios		82	66
+217	colinhumber	SickBeard-iOS	0		https://github.com/colinhumber/SickBeard-iOS		17	4
+218	geerlingguy	Catholic-Diocese-App-iOS	0	Catholic Diocese App for iOS	https://github.com/geerlingguy/Catholic-Diocese-App-iOS	http://catholicdioceseapp.org/	12	6
+219	ShareSDKPlatform	ShareSDK-for-iOS	0		https://github.com/ShareSDKPlatform/ShareSDK-for-iOS	http://www.sharesdk.cn	12	6
+220	buddycloud	buddycloud-iOS-client	0	buddycloud iPhone client	https://github.com/buddycloud/buddycloud-iOS-client	http://buddycloud.com	17	4
+221	michaeltyson	TPKeyboardAvoiding	0	A drop-in universal solution for moving text fields out of the way of the keyboard in iOS	https://github.com/michaeltyson/TPKeyboardAvoiding	http://atastypixel.com/blog/a-drop-in-universal-solution-for-moving-text-fields-out-of-the-way-of-the-keyboard/	624	101
+222	stefanoa	SASlideMenu	0	Library to create iOS sliding menu compatible with storyboards	https://github.com/stefanoa/SASlideMenu		315	69
+223	WhiteHouse	wh-app-ios	0		https://github.com/WhiteHouse/wh-app-ios		404	142
+224	samvermette	SVHTTPRequest	0	Simple REST client for iOS and Mac.	https://github.com/samvermette/SVHTTPRequest	http://samvermette.com/310	264	42
+225	devindoty	DDMenuController	0	Menu controller similar to the one found in Facebook and Path 2.0 on iOS	https://github.com/devindoty/DDMenuController		498	111
+226	mystcolor	JTRevealSidebarDemo	0	A carefully implemented iOS objective-c library to mimic the sidebar layout of the new Facebook app and Path 2.0 app. (archive)	https://github.com/mystcolor/JTRevealSidebarDemo	http://twitter.com/mystcolor	1006	196
+227	mronge	MailCore	0	MailCore is a Mac/iOS framework for working with the e-mail protocols IMAP and SMTP	https://github.com/mronge/MailCore	http://www.libmailcore.com	468	117
+228	dingbat	nsrails	0	iOS/Mac OS framework for Rails	https://github.com/dingbat/nsrails	http://nsrails.com	417	32
+229	chrismiles	CMPopTipView	0	"Custom UIView for iOS that pops up an animated ""bubble"" pointing at a button or other view. Useful for popup tips."	https://github.com/chrismiles/CMPopTipView	https://github.com/chrismiles/CMPopTipView	1116	177
+230	xyfeng	XYPieChart	0	A simple and animated Pie Chart for your iOS app.	https://github.com/xyfeng/XYPieChart		356	61
+231	vfr	Viewer	0	PDF Viewer App for iOS	https://github.com/vfr/Viewer	http://www.vfr.org/	131	40
+232	pkluz	PKRevealController	0	PKRevealController (ex. ZUUIRevealController) is a delightful view controller container for iOS, enabling you to present multiple controllers on top of one another.	https://github.com/pkluz/PKRevealController		1004	187
+233	aws	aws-sdk-ios	0	Official mirror of the AWS SDK for iOS. For more information on the AWS SDK for iOS, see our web site:	https://github.com/aws/aws-sdk-ios	http://aws.amazon.com/sdkforios	323	81
+234	soffes	sskeychain	0	Simple Objective-C wrapper for the keychain that works on Mac and iOS	https://github.com/soffes/sskeychain		561	89
+235	keirp	Glass-Segmented-Buttons-for-iOS-5.1-	0	An iOS control for adding Tweetbot-like iOS segmented buttons to your projects.	https://github.com/keirp/Glass-Segmented-Buttons-for-iOS-5.1-		43	5
+236	nacho4d	ClockView	0	ClockView for iOS	https://github.com/nacho4d/ClockView		92	23
+237	nto	AirView	0	AirPlay viewer for iOS devices	https://github.com/nto/AirView	http://itunes.apple.com/us/app/airview/id412370918	252	25
+238	rnapier	RNCryptor	0	CCCryptor (AES encryption) wrappers for iOS and Mac	https://github.com/rnapier/RNCryptor	http://robnapier.net/blog/aes-commoncrypto-564	314	62
+239	provideal	MMGridView	0	A simple grid view / dashboard component for iOS	https://github.com/provideal/MMGridView		305	62
+240	rs	SDSegmentedControl	0	A drop-in remplacement for UISegmentedControl that mimic iOS 6 AppStore tab controls	https://github.com/rs/SDSegmentedControl		584	81
+241	Buza	CVOCV--iOS-	0	An OpenCV-based video experimentation environment for iOS 4.x.	https://github.com/Buza/CVOCV--iOS-		29	3
+242	DjKira	iOS-6-Headers	0	iOS 6 Headers for Cydia Developers	https://github.com/DjKira/iOS-6-Headers		10	5
+243	stefanhp	WindMobile-iOS	0	iOS client for WindMobile	https://github.com/stefanhp/WindMobile-iOS		1	5
+244	leoru	freelansim-iOS	0	iOS mobile application for freelansim.ru	https://github.com/leoru/freelansim-iOS		4	5
+245	mschoch	iOS-Couchbase-Templates	0	Pre-built iOS Couchbase + Xcode Project Templates + Demo Applications	https://github.com/mschoch/iOS-Couchbase-Templates		7	5
+246	stefanhp	WindMobile-iOS	0	iOS client for WindMobile	https://github.com/stefanhp/WindMobile-iOS		1	5
+247	leoru	freelansim-iOS	0	iOS mobile application for freelansim.ru	https://github.com/leoru/freelansim-iOS		4	5
+248	cubewang	NewsReader	0	iOS News Reader compatible with iPhone and iPad	https://github.com/cubewang/NewsReader		143	108
+249	Haoest	SudokuResolv	0	Sudoku solver with OCR capability on iOS	https://github.com/Haoest/SudokuResolv	http://itunes.apple.com/us/app/sudoku-resolv/id446583583?ls=1&mt=8	262	36
+250	eklipse2k8	FilterKit	0	iOS Framework for easily adding Camera with Filters	https://github.com/eklipse2k8/FilterKit		381	50
+251	toursprung	TSMessages	0	Easy to use and customizable messages/notifications for iOS à la Tweetbot	https://github.com/toursprung/TSMessages		855	61
+252	markofjohnson	HJCache	0	iOS asynchronous download, sharing, and caching library for images and more	https://github.com/markofjohnson/HJCache		503	84
+253	scottjacksonx	SJNotificationViewController	0	Lightweight notifications in iOS apps	https://github.com/scottjacksonx/SJNotificationViewController		169	29
+254	schwa	CoreTextToy	0	iOS CoreText test app	https://github.com/schwa/CoreTextToy		205	25
+255	Constantine-Fry	Foursquare-API-v2	0	Foursquare API v2 For iOS and MacOS	https://github.com/Constantine-Fry/Foursquare-API-v2	constantine-fry.github.com	191	42
+256	couchbaselabs	CouchCocoa	0	Objective-C API for CouchDB on iOS and Mac OS	https://github.com/couchbaselabs/CouchCocoa	http://couchbaselabs.github.com/CouchCocoa/docs/	209	72
+257	hackedkeyboard	zawgyi-keyboard-iOS-5	0	replace czech keyboard with zawgyi keyboard	https://github.com/hackedkeyboard/zawgyi-keyboard-iOS-5		10	6
+258	honcheng	RTLabel	0	simple rich text display for iOS using html-like markups	https://github.com/honcheng/RTLabel	http://honcheng.com	371	97
+259	alekseyn	EasyTableView	0	Horizontal and vertical scrolling table views for iOS	https://github.com/alekseyn/EasyTableView		269	57
+260	gcamp	GCDiscreetNotificationView	0	A discreet, non-modal, notification view for iOS.	https://github.com/gcamp/GCDiscreetNotificationView	gcamp.ca	296	52
+261	tkzic	audiograph	0	iOS audio processing graph demonstration	https://github.com/tkzic/audiograph	audiograph@zerokidz.com	159	43
+262	hack4reno	iOS-Examples	0	Sample code for iOS 5.0+ in Xcode 4.2	https://github.com/hack4reno/iOS-Examples		13	4
+263	meiwin	BTBreadcrumbView	0	iOS breadcrumb UI control	https://github.com/meiwin/BTBreadcrumbView		211	22
+264	brutella	chatheads	0	An implementation of Facebook's ChatHeads on iOS.	https://github.com/brutella/chatheads		237	21
+265	uservoice	uservoice-iphone-sdk	0	UserVoice for iOS SDK for iPhone and iPad apps	https://github.com/uservoice/uservoice-iphone-sdk	http://www.uservoice.com/ios	172	74
+266	itruf	crackify	0	Protection for iOS apps from cracking	https://github.com/itruf/crackify		339	26
+267	hollance	MHTabBarController	0	A custom tab bar controller for iOS 5	https://github.com/hollance/MHTabBarController	http://www.hollance.com/2011/11/mhtabbarcontroller-a-custom-tab-bar-for-ios-5-using-the-new-container-apis/	334	44
+268	esilverberg	ios-image-filters	0	photoshop-style filter interface for UIImage class on iOS to make instagram-style images	https://github.com/esilverberg/ios-image-filters		780	137
+269	libpd	pd-for-ios	0	Pure Data for iOS	https://github.com/libpd/pd-for-ios	http://noisepages.com/groups/pd-everywhere/	120	29
+270	kirbylover4000	IRCCloud-for-iOS	0	Unofficial IRCCloud app for iOS	https://github.com/kirbylover4000/IRCCloud-for-iOS		12	4
+271	yoshiokatsuneo	camlingual_iphone	0	CamLingual for iPhone(iOS)	https://github.com/yoshiokatsuneo/camlingual_iphone	http://www.camlingual.com/	100	33
+272	groue	GRMustache	0	Flexible and production-ready Mustache templates for MacOS Cocoa and iOS	https://github.com/groue/GRMustache	http://mustache.github.com/	455	63
+273	tomsoft1	StackBluriOS	0	Stack Blur implementation for iOS	https://github.com/tomsoft1/StackBluriOS		156	24
+274	veader	V8HorizontalPickerView	0	Horizontal UIPickerView Control for iOS	https://github.com/veader/V8HorizontalPickerView		147	24
+275	davestitz	XMLRPC-Starter-Kit-for-iOS-Wordpress	0	A simple project to help you learn the basics of XMLRPC calls for iOS (iPhone and iPad) into a Wordpress install	https://github.com/davestitz/XMLRPC-Starter-Kit-for-iOS-Wordpress		12	6
+276	yinkou	OCMapView	0	Simple and easy to use clustering mapView for iOS	https://github.com/yinkou/OCMapView	http://www.unet.univie.ac.at/~a0846794/OCMapView/	264	42
+277	chiahsien	UICollectionViewWaterfallLayout	0	The waterfall (i.e., Pinterest-like) layout for UICollectionView introduced in iOS 6.	https://github.com/chiahsien/UICollectionViewWaterfallLayout		481	57
+278	danielamitay	iHasApp	0	The iHasApp iOS Framework allows you to detect installed apps on a user's device.	https://github.com/danielamitay/iHasApp		432	61
+279	mobfarm	FastPdfKit	0	A Static Library to be embedded on iOS applications to display pdf documents derived from Fast PDF	https://github.com/mobfarm/FastPdfKit	http://fastpdfkit.com	571	145
+280	twotoasters	TTSwitch	0	Fully customizable switch for iOS using images	https://github.com/twotoasters/TTSwitch		278	41
+281	mkftr	DoorwayTransition	0	Doorway Transition in CoreAnimation (iOS)	https://github.com/mkftr/DoorwayTransition		187	20
+282	dealforest	iOS-FakeWeb	0	Simple HTTP request mocking/interception for testing module.	https://github.com/dealforest/iOS-FakeWeb		20	3
+283	gloubibou	HHPanningTableViewCell	0	Swipe to reveal implementation for iOS	https://github.com/gloubibou/HHPanningTableViewCell		145	23
+284	guicocoa	pinview	0	PIN Code Entry Screen for iOS	https://github.com/guicocoa/pinview		189	30
+285	ccp0101	iTransmission	0	A native BitTorrent client for iOS	https://github.com/ccp0101/iTransmission	http://code.google.com/p/itransmission/	70	39
+286	workhabitinc	drupal-ios-sdk	0	The Drupal iOS iPhone & iPad Software Development Kit provides a full suite of iOS features to natively connect iOS applications to Drupal. Built by Kyle Browning at http://workhabit.com Formerly KBDrupalConnect	https://github.com/workhabitinc/drupal-ios-sdk		308	63
+287	JimLiu	WeiboSDK	0	新浪微博SDK之iOS版本	https://github.com/JimLiu/WeiboSDK		258	91
+288	hellozimi	HCYoutubeParser	0	Fetches YouTube mp4 URLS for iOS	https://github.com/hellozimi/HCYoutubeParser		177	31
+289	robbiehanson	KissXML	0	A replacement for Cocoa's NSXML cluster of classes. Based on libxml. Works on iOS.	https://github.com/robbiehanson/KissXML		286	81
+290	samvermette	SVPulsingAnnotationView	0	A customizable MKUserLocationView replica for your iOS app.	https://github.com/samvermette/SVPulsingAnnotationView	http://samvermette.com/317	534	27
+291	kolyvan	kxmovie	0	movie player for iOS using ffmpeg	https://github.com/kolyvan/kxmovie		93	50
+292	wess	Survey	0	iOS Form building made simple	https://github.com/wess/Survey		288	23
+293	socialize	socialize-sdk-ios	0	Socialize SDK for iOS devices	https://github.com/socialize/socialize-sdk-ios	http://getsocialize.com/	150	22
+294	soffes	ssmessagesviewcontroller	0	iOS Messages.app style table view controller	https://github.com/soffes/ssmessagesviewcontroller		211	47
+295	TimCinel	ActionSheetPicker	0	Quickly reproduce the dropdown UIPickerView / ActionSheet functionality from Safari on iPhone/ iOS / CocoaTouch.	https://github.com/TimCinel/ActionSheetPicker		454	148
+296	nfarina	xmldocument	0	A lightweight XML Document class for iOS.	https://github.com/nfarina/xmldocument	http://nfarina.com/post/2843708636/a-lightweight-xml-parser-for-ios	223	26
+297	reednj	TDSemiModal	0	Semi-modal view & DatePicker for IOS	https://github.com/reednj/TDSemiModal	http://reednj.tumblr.com/post/1346445326/	164	32
+298	Ciechan	BCGenieEffect	0	An OSX style genie effect inside your iOS app.	https://github.com/Ciechan/BCGenieEffect		463	55
+299	ultragtx	GSBookShelf	0	An iBooks-styled book shelf for iOS (Animation of drag & drop, insert, remove...)	https://github.com/ultragtx/GSBookShelf		338	68
+300	flafeer	Reston-iOS-Study-Group	0	A shared repository for the Reston, VA iOS Study Group	https://github.com/flafeer/Reston-iOS-Study-Group		6	5
+301	matthewpalmer	Responsive-iOS-Grid-System	0	A grid system for iOS views. Uses percentages (well, fractions) so you can design for all screens in one go.	https://github.com/matthewpalmer/Responsive-iOS-Grid-System		41	0
+302	robterrell	TVOutManager	0	Mirror the display of an iOS device on an external screen	https://github.com/robterrell/TVOutManager	http://www.touchcentric.com/blog/archives/123	295	37
+303	vokalinteractive	CoreDataManager-iOS	0		https://github.com/vokalinteractive/CoreDataManager-iOS		3	5
+304	photo	mobile-ios	0	Trovebox mobile application for iOS	https://github.com/photo/mobile-ios	https://trovebox.com	101	28
+305	roupam	Objective-C-NuREPL-for-iOS	0	Give instructions directly to a running iOS app in the simulator, through a clojure repl using Nu Lisp instructions. You can play with whatever objects that are accessible.  Wanted something like RubyMotion REPL. So hacked this up! 	https://github.com/roupam/Objective-C-NuREPL-for-iOS		75	2
+306	KurtCode	PDFKitten	0	A framework for extracting data from PDFs in iOS	https://github.com/KurtCode/PDFKitten		191	46
+307	jdruid	Google-Places-for-iOS-5	0	Google Places API for the iOS 5.0 SDK	https://github.com/jdruid/Google-Places-for-iOS-5		22	4
+308	ZaBlanc	RaptureXML	0	A simple, sensible, block-based XML API for iOS and Mac development.	https://github.com/ZaBlanc/RaptureXML	http://raptureinvenice.com	427	53
+309	alikaragoz	MCSwipeTableViewCell	0	MCSwipeTableViewCell implements the gestural table view cell style seen in the very well-executed Mailbox iOS app.	https://github.com/alikaragoz/MCSwipeTableViewCell		812	94
+310	bhsdrew	Miso-iOS-Wrapper	0	iOS Wrapper for the Miso API using OAuth and JSON	https://github.com/bhsdrew/Miso-iOS-Wrapper	http://rnew.de	6	4
+311	crino	instagram-ios-sdk	0	Instagram SDK for iOS	https://github.com/crino/instagram-ios-sdk	http://www.followgram.me	84	31
+312	jonmumm	RouletteTok-iOS	0	Chat roulette for iOS	https://github.com/jonmumm/RouletteTok-iOS	http://roulettetok.com	5	4
+313	meredian	TTSOverview-iOS	0	A simple application for comparing iOS-compatible Text-To-Speech solutions. Build for iPhone 4.3	https://github.com/meredian/TTSOverview-iOS		10	4
+314	ParkourVisions	Parkour_Vision-iOS	0	Parkour Visions iOS app: training spots map	https://github.com/ParkourVisions/Parkour_Vision-iOS	http://www.flickr.com/groups/parkourspots	6	4
+315	haiwen	seafile-iOS	0	iOS client for seafile	https://github.com/haiwen/seafile-iOS		10	4
+316	jessegrosjean	DropboxSync	0	Dropbox to iOS sync	https://github.com/jessegrosjean/DropboxSync		265	15
+317	amplitude	Amplitude-iOS	0		https://github.com/amplitude/Amplitude-iOS		4	4
+318	jharwig	SignatureDemo	0	iOS Signature Capture Demo	https://github.com/jharwig/SignatureDemo		188	18
+319	zootreeves	iOS-WebSockets	0	WebSocket implementation using a Simple Wrapper around UIWebview. iOS 4.2+	https://github.com/zootreeves/iOS-WebSockets	http://www.benreeves.co.uk	24	2
+320	kentnguyen	KNMultiItemSelector	0	A multiple item selector control for iOS	https://github.com/kentnguyen/KNMultiItemSelector		175	28
+321	jaydee3	JDFlipNumberView	0	[iOS] Representing analog flip numbers like airport/trainstation displays	https://github.com/jaydee3/JDFlipNumberView		313	63
+322	richy486	InvaderR	0	Simple space invaders for iOS on github	https://github.com/richy486/InvaderR	http://bit.ly/fExnHx	232	22
+323	urbanairship	ios-library	0	Urban Airship iOS Products (In-App Purchase, Push, Rich Push, Subscriptions)	https://github.com/urbanairship/ios-library	http://urbanairship.com	271	71
+324	mtabini	AFKPageFlipper	0	A simple 3-D page flip transition for iOS devices	https://github.com/mtabini/AFKPageFlipper		292	62
+325	gabriel	CaptureRecord	0	User + Screen Recording iOS SDK	https://github.com/gabriel/CaptureRecord	http://www.capturerecord.com/	217	23
+326	mobfox	mAdserve-iOS-SDK	0	iOS SDK for mAdserve mobile adserver	https://github.com/mobfox/mAdserve-iOS-SDK	www.madserve.org	13	4
+327	alanzeino	iOS-CSE-Class-2	0	The repository for class 2.	https://github.com/alanzeino/iOS-CSE-Class-2		13	4
+328	ginatrapani	todo.txt-touch-ios	0	An iOS app for managing your todo.txt file stored in Dropbox.	https://github.com/ginatrapani/todo.txt-touch-ios	http://todotxt.com	245	73
+329	scalessec	Toast	0	An Objective-C category that adds Android-style toast notifications to iOS.	https://github.com/scalessec/Toast		259	69
+330	scalessec	Toast	0	An Objective-C category that adds Android-style toast notifications to iOS.	https://github.com/scalessec/Toast		259	69
+331	k06a	ABCalendarPicker	0	Fully configurable iOS calendar UI component with multiple layouts and smooth animations.	https://github.com/k06a/ABCalendarPicker		496	43
+332	frankus	MeterView	0	Dashboard-style gauges for iOS	https://github.com/frankus/MeterView		121	20
+333	aporat	KKPasscodeLock	0	KKPasscodeLock is an iOS toolkit for adding a passcode view controller and passcode settings in ios apps.  	https://github.com/aporat/KKPasscodeLock	http://www.kosherpenguin.com	212	47
+334	jparishy	iOS-Google-Music-Player	0	Google Music client for iPhone, and eventually iPad	https://github.com/jparishy/iOS-Google-Music-Player	http://juliusparishy.com/puffplus/	24	3
+335	raweng	StackScrollView	0	Stack Scroll View Panel like Twitter Ipad app for iOS developers [iPad]	https://github.com/raweng/StackScrollView	http://www.raweng.com	313	157
+336	71squared	TBXML	0	Super-fast, lightweight, easy to use XML parser for the Mac & iOS	https://github.com/71squared/TBXML	http://www.71squared.com	273	63
+337	brandonhamilton	inputtoolbar	0	Expandable text input toolbar for iOS applications	https://github.com/brandonhamilton/inputtoolbar		225	35
+338	SVGKit	SVGKit	0	Display and interact with SVG Images on iOS / OS X, using native rendering (CoreAnimation)	https://github.com/SVGKit/SVGKit	(currently only supported for iOS - OS X code needs updating)	574	94
+339	nothingmagical	cheddarkit	0	Objective-C framework that powers Cheddar for iOS and Cheddar for Mac	https://github.com/nothingmagical/cheddarkit		192	83
+340	Constantine-Fry	Foursquare-iOS-API	0	A simple Objective-C wrapper for Foursquare API. Extracted from foursquareX  Note that this API is deprecated. It will not be receiving rate limit increases or new features and will be fully unsupported by mid-2011. you should use new version https://github.com/Constantine-Fry/Foursquare-API-v2	https://github.com/Constantine-Fry/Foursquare-iOS-API	appledeveloper.me	21	2
+341	enormego	cocoa-helpers	0	A collection of helpers (categories) we've written for iOS and OS X, full with convenience methods to make them easier and more useful. [tags:cocoa,objective-c,ios,mac]	https://github.com/enormego/cocoa-helpers	http://developers.enormego.com	703	64
+342	futuresimple	FSVerticalTabBarController	0	Vertical tab bar controller for iOS mimicking UITabBarController look and behavior	https://github.com/futuresimple/FSVerticalTabBarController		326	54
+343	ldiqual	tesseract-ios	0	Tesseract OCR for iOS	https://github.com/ldiqual/tesseract-ios		110	21
+344	gaosboy	iOSSF	0	SegmentFault官方App	https://github.com/gaosboy/iOSSF		202	80
+345	gpambrozio	GusUtils	0	Utility classes and categories for iOS	https://github.com/gpambrozio/GusUtils		129	19
+346	sonsongithub	PopupView	0	PopupView for iOS, like UICalloutView. BSD License.	https://github.com/sonsongithub/PopupView	http://www.youtube.com/watch?v=K8ZqC4YaLA4	191	37
+347	chrismaddern	Follow-Me-On-Twitter-iOS-Button	0	A basic 'Follow Me' Twitter Button for iOS which will use any installed Twitter App to show the user's profile.	https://github.com/chrismaddern/Follow-Me-On-Twitter-iOS-Button	http://www.chrismaddern.com	18	4
+348	sonnyparlin	PullToRefresh	0	PullToRefresh for iOS 5 (and up) and ARC	https://github.com/sonnyparlin/PullToRefresh	http://sonnyparlin.com/2011/12/pulltorefresh-ios-5-and-arc-tutorial	92	36
+349	keenlabs	KeenClient-iOS	0	Official iOS client for the Keen IO API. Build analytics features directly into your iOS apps.	https://github.com/keenlabs/KeenClient-iOS	https://keen.io/docs	20	0
+350	justin	wolfpack	0	Wolfpack is an image processing library for iOS.	https://github.com/justin/wolfpack		348	16
+351	questbeat	QBPopupMenu	0	A popup menu for iOS without using image files.	https://github.com/questbeat/QBPopupMenu		299	27
+352	jasongregori	iOS-Optimized-PNG-Viewer	0	Lets you view PNGs that have been optimized for the iOS	https://github.com/jasongregori/iOS-Optimized-PNG-Viewer		30	1
+353	RossAnderson	EarthView	0	3D Visualization of Earth using Map Tiles for iOS	https://github.com/RossAnderson/EarthView		196	35
+354	anton-nikan	iOS-Path-Kit	0	Path Kit for building, traversing and drawing paths for iOS	https://github.com/anton-nikan/iOS-Path-Kit		15	3
+355	50pixels	FPPopover	0	FPPopover provides an alternative to the native iOS UIPopoverController, adding support for iPhone and additional opportunities to customize the look and feel of the popovers.	https://github.com/50pixels/FPPopover	http://www.gingerbeard.me	423	103
+356	TheAmazingAudioEngine	TheAmazingAudioEngine	0	Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don't have to.	https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine		659	74
+357	gmoledina	GMGridView	0	A performant Grid-View for iOS (iPhone/iPad) that allows sorting of views with gestures (the user can move the items with his finger to sort them) and pinching/rotating/panning gestures allow the user to play with the view and toggle from the cellview to a fullsize display.	https://github.com/gmoledina/GMGridView		1660	401
+358	pppoe	LightMenuBar	0	Light-weight Menu Bar for iOS App	https://github.com/pppoe/LightMenuBar		168	36
+359	doPanic	PanicAR	0	Augmented Reality Framework for iOS	https://github.com/doPanic/PanicAR	http://www.dopanic.com/ar	107	19
+360	romaonthego	REActivityViewController	0	Open source alternative to UIActivityViewController, highly customizable and compatible with iOS 5.0.	https://github.com/romaonthego/REActivityViewController		299	49
+361	JaviSoto	Base-iOS-View-Controllers	0	Convenient base VCs for all your iPhone projects if you, like me, like writing less code. Allows to very easily create controllers with table views, controllers to show data from core data, adjusting the view with the keyboard easily and automatically, and more.	https://github.com/JaviSoto/Base-iOS-View-Controllers	http://javisoto.github.com/Base-iOS-View-Controllers	21	3
+362	kyleroche	Professional_iOS_AugmentedReality	0	Professional iOS Augmented Reality book (Apress). Code samples	https://github.com/kyleroche/Professional_iOS_AugmentedReality	https://www.facebook.com/pages/Professional-iOS-Augmented-Reality-Programming/236205489751076	147	84
+363	JagCesar	Simple-Paint-App-iOS	0	Very simple paint application that draws smooth curves	https://github.com/JagCesar/Simple-Paint-App-iOS		11	4
+364	marcoarment	IPOfflineQueue	0	A persistent, serial task queue for iOS.	https://github.com/marcoarment/IPOfflineQueue		279	16
+365	pixelglow	zipzap	0	zip file I/O library for Mac OS X and iOS	https://github.com/pixelglow/zipzap		424	37
+366	iosdeveloper	ExpandyButton	0	As seen in camera app on iOS	https://github.com/iosdeveloper/ExpandyButton		105	19
+367	shaders	phonegap-cordova-push-notifications	0	Phonegap Cordova Pushwoosh iOS Push Notifications Plugin	https://github.com/shaders/phonegap-cordova-push-notifications	www.pushwoosh.com	73	72
+368	Label305	iOS-OfflineMaps-Example	0	Example of using Offline Maps with Route-me and a SQLite database for iOS.	https://github.com/Label305/iOS-OfflineMaps-Example	http://infinitedroplets.com/area51/route_me_docs/	20	3
+369	jsj2008	iOS	0	Apps for iPhone OS(iOS)	https://github.com/jsj2008/iOS		1	0
+370	adilbenmoussa	iOS	0	iOS project	https://github.com/adilbenmoussa/iOS	http://adilbenmoussa.com	1	0
+371	mkliu	iOS	0		https://github.com/mkliu/iOS		1	0
+372	DanyHunter	iOS	0	Programming in Objective-C - End of chapter solutions	https://github.com/DanyHunter/iOS		1	0
+373	roninmoto	iOS	0	iOS Courses	https://github.com/roninmoto/iOS		0	0
+374	pavelm	iOS	0		https://github.com/pavelm/iOS		0	0
+375	psholtz	iOS	0	Useful code for writing apps in Apple's iOS.	https://github.com/psholtz/iOS		2	2
+376	supersuporte	iOS	0	iOS - primeira app	https://github.com/supersuporte/iOS		1	0
+377	nadeemk	iOS	0	IOS Projects	https://github.com/nadeemk/iOS		0	0
+378	Goblin3D	iOS	0	jajal	https://github.com/Goblin3D/iOS		0	0
+379	colonialclub	iOS	0	Colonial Club's iOS App	https://github.com/colonialclub/iOS		2	0
+380	windhamdavid	iOS	0	iOS codeschool dealio	https://github.com/windhamdavid/iOS		0	0
+381	dongri	iOS	0	iOS Example	https://github.com/dongri/iOS		1	0
+382	Dr-Zhi	iOS	0	iOS apps	https://github.com/Dr-Zhi/iOS	http://dr-zhi.com	0	0
+383	loucimj	iOS	0	iOS Projects	https://github.com/loucimj/iOS		0	1
+384	iQrave	iOS	0		https://github.com/iQrave/iOS		3	2
+385	zackb	iOS	0	Before the app store we had the Open SDK!	https://github.com/zackb/iOS		1	0
+386	el-github	iOS	0	Tiny programs for iOS	https://github.com/el-github/iOS	http://ict-language.blogspot.com/	2	0
+387	Jennifer-fu	iOS	0		https://github.com/Jennifer-fu/iOS		1	0
+388	douglasdeodato	iOS	0	some examples ios	https://github.com/douglasdeodato/iOS		1	0
+389	Foundit-2013	iOS	0	Foundit iOS application	https://github.com/Foundit-2013/iOS		0	0
+390	phocus	iOS	0		https://github.com/phocus/iOS		1	0
+391	yamadakei	iOS	0		https://github.com/yamadakei/iOS		0	0
+392	crazyyi	iOS	0	iOS projects repository	https://github.com/crazyyi/iOS		0	0
+393	hitonomichi	iOS	0		https://github.com/hitonomichi/iOS		0	0
+394	trafi	iOS	0		https://github.com/trafi/iOS		0	0
+395	Opentracker	iOS	0	This is the public repository for the iOS library from Opentracker.net	https://github.com/Opentracker/iOS	http://api.opentracker.net/api/inserts/app/ios.jsp	3	1
+396	jawsthegame	iOS	0	Learning iOS	https://github.com/jawsthegame/iOS		1	0
+397	DoubleUp	iOS	0		https://github.com/DoubleUp/iOS		0	0
+398	amb8805	iOS	0		https://github.com/amb8805/iOS		0	0
+399	iospages	iOS	0		https://github.com/iospages/iOS		1	0
+400	alexandrenascimento	iOS	0	Alguns códigos de iOS que podem ajudar.	https://github.com/alexandrenascimento/iOS		1	0
+401	jaischeema	iOS	0	iOS projects done while learning how to code!	https://github.com/jaischeema/iOS		1	0
+402	felrinke	iOS	0	Learning iOS (XCode)	https://github.com/felrinke/iOS		1	0
+403	ishall	iOS	0	iOS	https://github.com/ishall/iOS		0	0
+404	ihashacks	iOS	0	iOS Monkeying Around	https://github.com/ihashacks/iOS		0	0
+405	nataultra	iOS	0		https://github.com/nataultra/iOS		0	0
+406	TeamRocket	iOS	0		https://github.com/TeamRocket/iOS		0	0
+407	popigg	iOs	0	iOs programming pratices	https://github.com/popigg/iOs		0	0
+408	brothernguyen	iOS	0		https://github.com/brothernguyen/iOS		0	0
+409	BixiTO	iOS	0		https://github.com/BixiTO/iOS		0	0
+410	KavyaIndi	iOS	0	This repository contains all the iOS projects	https://github.com/KavyaIndi/iOS		0	0
+411	bendytree	iOS	0	An objective-c library for making iPhone & iPad development easier and less redundant.	https://github.com/bendytree/iOS		6	2
+412	eucephei	iOS	0	objective-c	https://github.com/eucephei/iOS		1	0
+413	tgchen	iOS	0	iOS 	https://github.com/tgchen/iOS		1	0
+414	jojonki	iOS	0		https://github.com/jojonki/iOS		1	0
+415	gonpingy	iOS	0		https://github.com/gonpingy/iOS		0	0
+416	Fightclub	iOS	0	Givair iOS App	https://github.com/Fightclub/iOS		0	1
+417	ttgreah	iOS	0	ios	https://github.com/ttgreah/iOS		0	0
+418	menomoto	iOS	0		https://github.com/menomoto/iOS		0	0
+419	SSMobile	iOS	0		https://github.com/SSMobile/iOS		0	1
+420	Talon876	iOS	0	Code for CSCI-494 iOS development	https://github.com/Talon876/iOS		0	0
+421	el-github	iOS	0	Tiny programs for iOS	https://github.com/el-github/iOS	http://ict-language.blogspot.com/	2	0
+422	zackb	iOS	0	Before the app store we had the Open SDK!	https://github.com/zackb/iOS		1	0
+423	crazyyi	iOS	0	iOS projects repository	https://github.com/crazyyi/iOS		0	0
+424	trafi	iOS	0		https://github.com/trafi/iOS		0	0
+425	DmitrijNezh	iOS	0		https://github.com/DmitrijNezh/iOS		1	0
+426	douglasdeodato	iOS	0	some examples ios	https://github.com/douglasdeodato/iOS		1	0
+427	phocus	iOS	0		https://github.com/phocus/iOS		1	0
+428	Jennifer-fu	iOS	0		https://github.com/Jennifer-fu/iOS		1	0
+429	yamadakei	iOS	0		https://github.com/yamadakei/iOS		0	0
+430	Foundit-2013	iOS	0	Foundit iOS application	https://github.com/Foundit-2013/iOS		0	0
+431	hitonomichi	iOS	0		https://github.com/hitonomichi/iOS		0	0
+432	rsms	peertalk	0	iOS and OS X Cocoa library for communicating over USB and TCP	https://github.com/rsms/peertalk	http://rsms.me/peertalk/	376	39
+433	whilethis	Super-Checkout	0	"The initial project from the book ""Pro iOS 5 Tools"""	https://github.com/whilethis/Super-Checkout		96	116
+434	tylerneylon	moriarty	0	A collection of useful Objective-C and iOS classes.	https://github.com/tylerneylon/moriarty	http://bynomial.com/blog/	207	29
+435	muZZkat	NMRangeSlider	0	A custom range slider for iOS	https://github.com/muZZkat/NMRangeSlider		70	24
+436	OData	OData4ObjC	0	OData client for iOS.	https://github.com/OData/OData4ObjC		61	26
+437	YannickL	YLProgressBar	0	Custom progress bar for iOS (4.0 or over) with an animated background	https://github.com/YannickL/YLProgressBar		268	47
+438	firebase	firebus	0	SF Live Bus iOS App	https://github.com/firebase/firebus	https://itunes.apple.com/us/app/sf-live-bus/id617065339?ls=1&mt=8	133	23
+439	azavea	OpenTreeMap-iOS	0	An OpenTreeMap client for iOS. The OpenTreeMap code can be downloaded at https://github.com/azavea/OpenTreeMap. A default skin for the iOS app is available at https://github.com/azavea/OpenTreeMap-iOS-skin.	https://github.com/azavea/OpenTreeMap-iOS	http://www.azavea.com/opentreemap	7	4
+440	mattt	Orbiter	0	Push Notification Registration for iOS	https://github.com/mattt/Orbiter		260	11
+441	ardalahmet	SSCheckBoxView	0	SSCheckBoxView is a check box UI control for iOS apps.	https://github.com/ardalahmet/SSCheckBoxView	http://www.ardalahmet.com/2011/12/07/sscheckboxview-a-check-box-ui-control-for-ios-apps	139	36
+442	defitech	FlowerForAll-iOs	0	Visual feedback on iOS device of the Flutter® VRP1 (medical device often used with Cystic Fibrosis) 	https://github.com/defitech/FlowerForAll-iOs	http://defitech.ch/FlowerForAll-en	5	4
+443	hugowetterberg	iOS-MapView-Basics	0	This is the companion sample code for an introductory article on MKMapView.	https://github.com/hugowetterberg/iOS-MapView-Basics	http://hugowetterberg.github.com/development/2012/03/15/ios-mapview-basics/	3	4
+444	zoul	Finch	0	Simple, low-latency OpenAL sound engine for Apple iOS.	https://github.com/zoul/Finch	http://github.com/zoul/Finch/	242	48
+445	vicpenap	PrettyKit	0	PrettyKit for iOS is a small set of new widgets and UIKit subclasses that gives you a deeper UIKit customization. You will be able to change their background color, add gradients, shadows, etc. 	https://github.com/vicpenap/PrettyKit	http://vicpenap.github.com/PrettyKit	1085	158
+446	initials	Mode-iOS	0	Flixel-iOS port of Mode	https://github.com/initials/Mode-iOS	http://www.initialscommand.com	16	1
+447	danielctull-forks	GoogleAnalytics-SDK-iOS	0	An *unofficial* git clone of the GoogleAnalytics SDK for iOS to use as a submodule.	https://github.com/danielctull-forks/GoogleAnalytics-SDK-iOS	http://code.google.com/mobile/analytics/	9	4
+448	schwa	Coverflow	0	iOS 6 UICollectionView Coverflow implementation	https://github.com/schwa/Coverflow		247	15
+449	nicklockwood	iRate	0	A handy class that prompts users of your iPhone or Mac App Store app to rate your application after using it for a while. Similar to Appirater, but with a simpler, cleaner interface and automatic support for iOS fast application switching. 	https://github.com/nicklockwood/iRate	http://charcoaldesign.co.uk/source/cocoa#irate	917	172
+450	rigoneri	myLauncher	0	myLauncher is a lightweight  Objective-C iOS Launcher	https://github.com/rigoneri/myLauncher	http://www.rigoneri.com	90	49
+451	sakrist	FacebookSample	0	Facebook compose sheet view controller like in iOS 6.0	https://github.com/sakrist/FacebookSample	http://www.developers-life.com/facebook-compose-view.html	186	56
+452	mbcharbonneau	UIImage-Categories	0	An fork of Trevor Harmon's UIImage category methods, updated for the latest versions of iOS.	https://github.com/mbcharbonneau/UIImage-Categories	http://vocaro.com/trevor/blog/2009/10/12/resize-a-uiimage-the-right-way/	178	55
+453	cezarsignori	SphereView	0	3D Sphere View for iOS	https://github.com/cezarsignori/SphereView	http://iosguy.com/2010/11/17/creating-a-3d-tag-cloud/	79	20
+454	chrismiles	CMUnistrokeGestureRecognizer	0	A port of the $1 Unistroke Recognizer (aka Dollar Gesture Recognizer) to iOS as a UIGestureRecognizer.	https://github.com/chrismiles/CMUnistrokeGestureRecognizer		482	30
+455	mikekatz	iOS-UI-Utils	0	Helpful ui classes	https://github.com/mikekatz/iOS-UI-Utils		16	1
+456	weissi	FRLayeredNavigationController	0	FRLayeredNavigationController, an iOS container view controller with an API similar to UINavigationController	https://github.com/weissi/FRLayeredNavigationController		309	39
+457	kstenerud	ObjectAL-for-iPhone	0	Mac and iOS Audio development, minus the headache. ObjectAL is the easy Objective-C interface to OpenAL, AVAudioPlayer, and audio session management.	https://github.com/kstenerud/ObjectAL-for-iPhone	http://kstenerud.github.com/ObjectAL-for-iPhone	524	66
+458	rpetrich	libactivator	0	Centralized gestures and button management for iOS	https://github.com/rpetrich/libactivator	http://rpetri.ch/cydia/activator/	104	25
+459	sweetmandm	CardSliderView-for-iOS	0	A card deck metaphor. Based on the UI element in: http://www.storyskeleton.com	https://github.com/sweetmandm/CardSliderView-for-iOS		14	4
+460	frankdilo	FDStatusBarNotifierView	0	A notifier view for iOS that resides in the status bar.	https://github.com/frankdilo/FDStatusBarNotifierView		174	28
+461	sarperdag	SESpringBoard	0	A super easy to use launcher for your iOS projects	https://github.com/sarperdag/SESpringBoard	http://www.apperto.com	184	27
+462	NextfazeSD	CouchDBSyncer-iOS	0	iOS library to perform a one-way sync of documents and attachments from a couchdb database to a local core data store	https://github.com/NextfazeSD/CouchDBSyncer-iOS	https://github.com/NextfazeSD/CouchDBSyncer-iOS	12	3
+463	xissburg	XBImageFilters	0	OpenGL ES 2-based image and real-time camera filters for iOS	https://github.com/xissburg/XBImageFilters		261	41
+464	felipek	Consumo-iOS-2	0	Consumo iOS 2	https://github.com/felipek/Consumo-iOS-2	http://nyvra.net/consumo	15	2
+465	serverdensity	ios-SDNestedTable	0	Obj-C module built on UITableView for creating a 2-level nested list UI control. iOS 4.0+	https://github.com/serverdensity/ios-SDNestedTable		417	68
+466	matej	MBPullDownController	0	MBPullDownController, an iOS container view controller for pullable scroll view interfaces.	https://github.com/matej/MBPullDownController	www.bukovinski.com	338	33
+467	pocketpixels	PhotoAppLink	0	iOS library for connecting photo editing apps	https://github.com/pocketpixels/PhotoAppLink	www.photoapplink.com	204	24
+468	soundcore	iOS---OS-X	0	iOS & OS X	https://github.com/soundcore/iOS---OS-X		0	0
+469	WindowsAzure-Toolkits	wa-toolkit-ios	0	windows azure toolkit for ios - library (source and compiled)	https://github.com/WindowsAzure-Toolkits/wa-toolkit-ios	http://www.wadewegner.com/2011/05/windows-azure-toolkit-for-ios/	187	25
+470	xpepermint	iOS-UIPullerView	0	A pull-down-to-refresh control.	https://github.com/xpepermint/iOS-UIPullerView	http://appstrides.com	14	1
+471	alikaragoz	AKSegmentedControl	0	Fully customizable Segmented Control for iOS	https://github.com/alikaragoz/AKSegmentedControl		168	16
+472	carlbrown	PDKeychainBindingsController	0	Mac OSX and iOS Keychain Access patterned after NSUserDefaults.	https://github.com/carlbrown/PDKeychainBindingsController	http://www.escortmissions.com/blog/2011/9/3/steal-this-code-and-protect-their-data-simplifying-keychain.html	287	35
+473	nst	RuntimeBrowser	0	Objective-C Runtime Bowser, for Mac OS X and iOS	https://github.com/nst/RuntimeBrowser		308	33
+474	couchbaselabs	CouchChat-iOS	0	Couchbase Lite demo app for iOS: A chat client	https://github.com/couchbaselabs/CouchChat-iOS		11	3
+475	ArtSabintsev	Harpy	0	Notify users that a new version of your iOS app is available, and prompt them with the AppStore link	https://github.com/ArtSabintsev/Harpy	https://github.com/ArtSabintsev/Harpy	445	60
+476	drhelius	iOS-SoundManager	0	SoundManager by Michael Daley provides a basic iOS wrapper for OpenAL and AVAudioPlayer.  It is a singleton class that allows sound clips to be loaded and cached with a key and then played back using that key.  It also allows for music tracks to be played, stopped and paused.	https://github.com/drhelius/iOS-SoundManager	http://www.71squared.com/2011/01/latest-sound-manager/	11	3
+477	nextive	NextiveJson	0	A fast JSON parser for iOS and MacOS	https://github.com/nextive/NextiveJson		295	12
+478	mumble-voip	mumble-iphoneos	0	Mumble client for iOS-based devices	https://github.com/mumble-voip/mumble-iphoneos	http://www.mumbleapp.com/	73	28
+479	bryceredd	CastleHassle	0	A physics-based cocos2d iOS game	https://github.com/bryceredd/CastleHassle		80	25
+480	prey	prey-ios-client	0	iOS client for the Prey anti-theft software.	https://github.com/prey/prey-ios-client	http://preyproject.com	141	29
+481	jakemarsh	JMImageCache	0	NSCache based remote-image caching and downloading mechanism for iOS.	https://github.com/jakemarsh/JMImageCache	http://deallocatedobjects.com/2011/02/19/introducing-jmimagecache/	196	42
+482	reddavis	RDActionSheet	0	Class to make a easily customisable Action Sheet for iOS	https://github.com/reddavis/RDActionSheet	http://riothq.com	197	23
+483	zac	dragkit	0	An iOS opensource framework for supporting Drag & Drop within an application and between applications.	https://github.com/zac/dragkit	http://dragkit.org/	256	36
+484	samvermette	SVStatusHUD	0	a copycat of the HUD shown on orientation and volume change in iOS.	https://github.com/samvermette/SVStatusHUD	http://samvermette.com/309	213	22
+485	ChiefPilot	F3BarGauge	0	LED- or LCD-like bar gauge control for iOS	https://github.com/ChiefPilot/F3BarGauge		169	25
+486	whiteTeam	iHappiness-iOS	0		https://github.com/whiteTeam/iHappiness-iOS		0	1
+487	opentok	opentok-ios-sdk	0	OpenTok iOS video SDK	https://github.com/opentok/opentok-ios-sdk	http://www.tokbox.com/opentok/ios/docs/index.html	70	18
+488	iLepra	iLepra-iOS	0	iLepra клиент для iOS с нативни элементами	https://github.com/iLepra/iLepra-iOS		1	0
+489	bilalmughal	NLImageCropper	0	IOS Image Cropper Control.	https://github.com/bilalmughal/NLImageCropper		85	16
+490	fictorial	Rock-Paper-Scissors-World-Masters-iOS	0	multiplayer rock-paper-scissors iOS game using Cocos2D and GameKit	https://github.com/fictorial/Rock-Paper-Scissors-World-Masters-iOS	http://fictorial.com/rps	12	4
+491	FremontUnified	iFUSD-iOS	0	iFUSD for iOS - The official iPhone Application of the Fremont Unified School District. 	https://github.com/FremontUnified/iFUSD-iOS	ifusd.fremontunified.org	6	0
+492	beefon	iOS-Stepper	0	Control that mimics Apple's stepper control used in Pages, Print dialog, etc. in iOS	https://github.com/beefon/iOS-Stepper		13	1
+493	ShadyElyaski	ios-filter-control	0	An iOS Filter UIControl Subclass. Zero Graphics. Highly Customizable.	https://github.com/ShadyElyaski/ios-filter-control		249	35
+494	nverinaud	NVUIGradientButton	0	A beautiful customizable iOS button with gradient.	https://github.com/nverinaud/NVUIGradientButton		136	17
+495	autresphere	ASMediaFocusManager	0	Animate your iOS image thumbnail views to fullscreen on a simple tap.	https://github.com/autresphere/ASMediaFocusManager		249	34
+496	domesticcatsoftware	DCControls	0	iOS Rotary Knob & Slider controls.  All custom drawing, no images, customizable.	https://github.com/domesticcatsoftware/DCControls	http://domesticcat.com.au/projects/	223	36
+497	orta	ARAnalytics	0	Simplify your iOS analytics	https://github.com/orta/ARAnalytics		132	12
+498	jhaynie	titanium_box2d	0	Titanium Box2D module for iOS	https://github.com/jhaynie/titanium_box2d		83	15
+499	hollance	MHRotaryKnob	0	UIControl for iOS that acts like a rotary knob	https://github.com/hollance/MHRotaryKnob	http://www.hollance.com/components	134	27
+500	oriolblanc	iOS-OBAdditions	0		https://github.com/oriolblanc/iOS-OBAdditions		6	3
+501	andrei200287	SAVideoRangeSlider	0	iOS Video trim control	https://github.com/andrei200287/SAVideoRangeSlider	https://github.com/andrei200287/SAVideoRangeSlider	105	13
+502	Taehan-Kim	AppSlate	0	iOS Application - AppSlate. Please visit to www.facebook.com/AppSlate	https://github.com/Taehan-Kim/AppSlate		91	34
+503	xpepermint	iOS-URLDownloader	0	Downloader makes it easy to implement file download functionality.	https://github.com/xpepermint/iOS-URLDownloader	http://appstrides.com	9	3
+504	CabForward	iOS-Notebook	0	Example iOS App from Week 1	https://github.com/CabForward/iOS-Notebook		3	3
+505	developmentseed	fingertips	0	Touch indicators for iOS applications.	https://github.com/developmentseed/fingertips		188	10
+506	tapwork	iOS-Particle-Fireworks	0		https://github.com/tapwork/iOS-Particle-Fireworks		8	3
+507	PinkelStar	pinkelstar-iOS-demo	0	Demo app for the PinkelStar iOS Framework and UI	https://github.com/PinkelStar/pinkelstar-iOS-demo	www.pinkelstar.com	8	3
+508	cdzombak	CAENLabStatus-iOS	0	Quickly and easily find an open CAEN computer on the University of Michigan's campus.	https://github.com/cdzombak/CAENLabStatus-iOS	https://itunes.apple.com/us/app/caen-labs/id502402955?mt=8	5	3
+509	agilehands	iOS-KeyboardHelper	0	Adjusts view position automatically above Keyboard along with a UIToolBar with buttons: Next, Prev and Done.	https://github.com/agilehands/iOS-KeyboardHelper	http://amanpages.com/wordpress/iphone-app-development-core-sdk-cocoa/keyboard-helper-for-iphone-apps-using-inputaccessoryview-with-previous-next-and-done-buttons/	8	3
+510	ChrisLizon	iOS-Memory-Game	0	CSCI 4100U Final Project	https://github.com/ChrisLizon/iOS-Memory-Game		3	3
+511	parworks	PARWorks-iOS	0	The PAR Works iOS Core SDK 	https://github.com/parworks/PARWorks-iOS		9	3
+512	nto	AirSpeaker	0	AirPlay audio player for iOS devices	https://github.com/nto/AirSpeaker		103	19
+513	Handelabra	HSLUpdateChecker	0	Simple update checker for iOS apps	https://github.com/Handelabra/HSLUpdateChecker		174	14
+514	Netmera	NetmeraBenchmark-iOs	0	Netmera	https://github.com/Netmera/NetmeraBenchmark-iOs		4	3
+515	soulfly	STUN-iOS	0	STUN protocol implementation for iOS	https://github.com/soulfly/STUN-iOS		1	3
+516	berzniz	Sequencer	0	Sequencer is an iOS library for asynchronous flow control.	https://github.com/berzniz/Sequencer		293	16
+517	kovpas	PMCalendar	0	Yet another calendar component for iOS. Compatible with iOS 4.0 (iPhone & iPad) and higher. Supports presenting as a popover and very flexible UI tuning. Default theme is inspired by https://github.com/ocrickard/OCCalendar	https://github.com/kovpas/PMCalendar		286	54
+518	brow	FacebookLikeView	0	A Facebook Like button for native iOS apps	https://github.com/brow/FacebookLikeView		114	29
+519	digdog	DDActionHeaderView	0	Header with title and actions, rapid UI component for quick hands on iOS 4	https://github.com/digdog/DDActionHeaderView	http://digdog.tumblr.com/post/1490527582/design-of-ios-ui-component	312	28
+520	nicklockwood	AsyncImageView	0	AsyncImageView is a simple extension of UIImageView for loading and displaying images asynchronously on iOS so that they do not lock up the UI.	https://github.com/nicklockwood/AsyncImageView	http://charcoaldesign.co.uk/source/cocoa#asyncimageview	287	68
+521	yandexmobile	yandexmapkit-ios	0	Yandex Map Kit for iOS	https://github.com/yandexmobile/yandexmapkit-ios		98	13
+522	samvermette	iOS-Simulator-Raindrop	0	Cloud.app raindrop that automatically uploads view content of iOS Simulator.	https://github.com/samvermette/iOS-Simulator-Raindrop		12	2
+523	josephstein	Flickr-OAuth-iOS	0		https://github.com/josephstein/Flickr-OAuth-iOS		12	2
+524	vandadnp	Graphics-and-Animation-on-iOS	0	O'Reilly's Graphics and Animation on iOS Example Codes	https://github.com/vandadnp/Graphics-and-Animation-on-iOS	http://vandadnp.wordpress.com	20	3
+525	gdawg	uiimage-dsp	0	IOS UIImage processing functions using the vDSP/Accellerate framework for speed. 	https://github.com/gdawg/uiimage-dsp	http://mad-dog-software.com	279	28
+526	clutchio	clutchios	0	iOS client library for Clutch.io	https://github.com/clutchio/clutchios		105	12
+527	eczarny	xmlrpc	0	The Cocoa XML-RPC Framework is a lightweight XML-RPC client framework for Mac OS X and iOS.	https://github.com/eczarny/xmlrpc		253	67
+528	rob-brown	RBFilePreviewer	0	Easy file previewing for iOS.	https://github.com/rob-brown/RBFilePreviewer		78	14
+529	charlesmchen	WeViews	0	A set of iOS classes for laying out UIViews.	https://github.com/charlesmchen/WeViews		220	17
+530	coryalder	DMActivityInstagram	0	Instagram sharing, iOS 6 style.	https://github.com/coryalder/DMActivityInstagram		112	16
+531	echonest	echoprint-ios-sample	0	Sample Echoprint song identifier for iOS	https://github.com/echonest/echoprint-ios-sample	http://echoprint.me/	105	17
+532	mobfox	MobFox-iOS-SDK	0	MobFox SDK to implement ads in an iPod, iPhone or iPad application	https://github.com/mobfox/MobFox-iOS-SDK	www.mobfox.com	16	2
+533	mschoch	iOS-Couchbase-Xcode-templates	0	Xcode templates to make it easier to get started with Mobile Couchbase for iOS	https://github.com/mschoch/iOS-Couchbase-Xcode-templates		16	0
+534	soniccat	memCheck-for-iOS	0	The library to help to find memory leaks in iOS applicaitons	https://github.com/soniccat/memCheck-for-iOS	http://gaolife.blogspot.com/	16	1
+535	grgcombs	MultiRowCalloutAnnotationView	0	An iOS MapKit callout annotation view with independent cells and accessory actions.	https://github.com/grgcombs/MultiRowCalloutAnnotationView		196	32
+536	goosoftware	GSProgressView	0	A cute, circular progress view for iOS – as used in Zippity.app	https://github.com/goosoftware/GSProgressView	http://goosoftware.github.io	202	17
+537	TouchCode	TouchHTTPD	0	An iOS compatible Cocoa Web Server.	https://github.com/TouchCode/TouchHTTPD		78	20
+538	LetsUnlockiPhone	MobileTerminal-for-iOS-5	0	Working MobileTerminal for iPhone, iPad, iPod Touch iOS 5.x.x	https://github.com/LetsUnlockiPhone/MobileTerminal-for-iOS-5	http://mobileterminal.googlecode.com	9	4
+539	jonhernandez	iOS-Timer-Countdown	0	iOS Application that performs a timer countdown on button push.	https://github.com/jonhernandez/iOS-Timer-Countdown		11	2
+540	laiso	WebScraper-iOS	0	a Web Scraping Utility with embed UIwebView context engine.	https://github.com/laiso/WebScraper-iOS		11	0
+541	funkyboy	Socket-Based-iOS-Application-and-Server	0	Code for the tutorial 'How To Create A Socket Based iPhone App and Server' on raywenderlich.com	https://github.com/funkyboy/Socket-Based-iOS-Application-and-Server	http://www.raywenderlich.com/3932/how-to-create-a-socket-based-iphone-app-and-server	8	4
+542	mattt	SkyLab	0	Multivariate & A/B Testing for iOS and Mac	https://github.com/mattt/SkyLab		259	10
+543	mochidev	MDSpreadView	0	A 2D table view for iOS apps!	https://github.com/mochidev/MDSpreadView	https://github.com/mochidev/MDSpreadViewDemo	76	19
+544	instructure	CKRefreshControl	0	A pull-to-refresh view for iOS 5, 100% API-compatible with UIRefreshControl in iOS 6	https://github.com/instructure/CKRefreshControl		175	21
+545	couchbaselabs	iOS-Demo-PhotoLocations	0	An iOS demo app for Couchbase Mobile: creates simple location-tagged database of photos.	https://github.com/couchbaselabs/iOS-Demo-PhotoLocations		15	2
+546	ldesroziers	NRGridView	0	A grid-view component for iOS, working almost like UITableView	https://github.com/ldesroziers/NRGridView		194	30
+547	crocodella	PullableView	0	UIView subclass that implements pullable behaviour similar to the Notification Center in iOS 5	https://github.com/crocodella/PullableView	http://www.crocodella.com.br/2012/01/a-pullable-view-implementation-like-notification-center	140	38
+548	editorscut	ec001-iOS-Testing-With-Kiwi	0	"Code download for ""Test Driving iOS Development with Kiwi"" available at http://editorscut.com."	https://github.com/editorscut/ec001-iOS-Testing-With-Kiwi		23	2
+549	100grams	CoreLocationUtils	0	iOS CoreLocation extensions, simulator and tools	https://github.com/100grams/CoreLocationUtils		88	17
+550	jellybeansoup	ios-quayboard	0	A keyboard accessory that blends in with the default iOS keyboard.	https://github.com/jellybeansoup/ios-quayboard		272	14
+551	valentinradu	WhiteRaccoon	0	FTP client for iOS	https://github.com/valentinradu/WhiteRaccoon		55	16
+552	cokecoffe	ios-demo	0	demos for ios study.	https://github.com/cokecoffe/ios-demo		28	28
+553	litl	WKVerticalScrollBar	0	A traditional-style scrollbar for iOS that integrates with existing UIScrollView or UIScrollView subclasses.	https://github.com/litl/WKVerticalScrollBar		194	29
+554	akosma	iPhoneWebServicesClient	0	This project showcases different transport formats and libraries to consume web services from an iOS application.	https://github.com/akosma/iPhoneWebServicesClient	http://projects.akosma.com/projects/iphone-web-services	287	48
+555	enigmaticflare	UIWebView-YouTube--iOS-Category--ARC-compliant-code	0	UIWebView category to simplify loading YouTube Videos in UIWebViews on iOS.  This only works on device, since the simulator is missing the youtube flash plugin hack	https://github.com/enigmaticflare/UIWebView-YouTube--iOS-Category--ARC-compliant-code		8	5
+556	writeitstudios	UDID-for-iOS-5	0	Provides a compact and customizable solution to Apple's deprecation of the uniqueIdentifier method in iOS 5.	https://github.com/writeitstudios/UDID-for-iOS-5		14	2
+557	taylor	iOS-Hello-World	0	simple hello world example	https://github.com/taylor/iOS-Hello-World		1	0
+558	seletz	iOS-bootcamp	0	This tracks my progress at the iOS bootcamp in Kloster Ehrbach	https://github.com/seletz/iOS-bootcamp		1	0
+559	atimmer	iOS-RSA-Program	0	A fun iOS application to learn the basics of RSA	https://github.com/atimmer/iOS-RSA-Program		3	1
+560	yoonchulkoh	iOS-practice	0		https://github.com/yoonchulkoh/iOS-practice		1	0
+561	albert-hong	iOS-HelloWorld	0	Test repo.	https://github.com/albert-hong/iOS-HelloWorld		0	0
+562	xpepermint	iOS-UITransparentToolbar	0	Transparent UIToolbar for iOS	https://github.com/xpepermint/iOS-UITransparentToolbar	http://appstrides.com	4	1
+563	tmcneely	xl-bootcamp-iOS	0	My iOS implemtation of the Xtreme labs boot camp for Fall 2011	https://github.com/tmcneely/xl-bootcamp-iOS		0	0
+564	jeremiahjordanisaacson	iOS---Sandbox	0	Pushing Content to the Web	https://github.com/jeremiahjordanisaacson/iOS---Sandbox		1	0
+565	samstewart	Parkalator-iOS-App	0	iOS realtime parking application.	https://github.com/samstewart/Parkalator-iOS-App		1	0
+566	HaKop	Hello-iOS-FHW	0	Mobile Applikationen: Grundlagen, Entwicklung und Vermarktung - Demo-Applikation 2/3 iOS-Betriebssystem	https://github.com/HaKop/Hello-iOS-FHW		1	0
+567	timd	iOS-Test-Rig	0	Testing setup for iOS with GHUnit and OCMock	https://github.com/timd/iOS-Test-Rig	http://adoptioncurve.net/projects	0	0
+568	marcoscaceres	widget-URI-iOS-	0	Proof of concept implementation of the widget uri scheme in iOS	https://github.com/marcoscaceres/widget-URI-iOS-		1	0
+569	couchbase	iOS-WorkerBee	0	Workflow test shell for iOS	https://github.com/couchbase/iOS-WorkerBee		6	0
+570	Readmore	BFC-iOS	0	Beryl Ford Photo Collection iOS App	https://github.com/Readmore/BFC-iOS		1	0
+571	moskyt	Urboretum-iOS-client	0	iPhone client for the Urboretum project	https://github.com/moskyt/Urboretum-iOS-client		1	0
+572	kundo	kundo-iOS	0	Code for easy integration of Kundo into your iPhone or other mobile application	https://github.com/kundo/kundo-iOS	http://kundo.se	2	0
+573	userlike	Userlike-iOS-Demo	0		https://github.com/userlike/Userlike-iOS-Demo	www.userlike.com	3	0
+574	choipd	Gravatar-iOS-Sample	0		https://github.com/choipd/Gravatar-iOS-Sample		3	1
+575	kirillsh	ImageLoader-iOS	0	ImageLoader. Helper class for asynchronous image loading from filesystem.	https://github.com/kirillsh/ImageLoader-iOS		4	0
+576	Beintoo	beintoo-iOS-sdk	0		https://github.com/Beintoo/beintoo-iOS-sdk		4	0
+577	soulmates	Soulmate-iOS	0		https://github.com/soulmates/Soulmate-iOS		0	0
+578	hunk	Kit-iOS	0	additional class/methods for iOS elements	https://github.com/hunk/Kit-iOS		1	1
+579	amudi	FASTFace-iOS	0		https://github.com/amudi/FASTFace-iOS		1	0
+580	toast4321	iOs-Learning	0		https://github.com/toast4321/iOs-Learning		1	0
+581	blair-robot-project	Scoutmaster-9000-iOS	0	Scoutmaster 9000 iOS Client	https://github.com/blair-robot-project/Scoutmaster-9000-iOS		2	0
+582	davekapp	iOS-Alerts-Test	0		https://github.com/davekapp/iOS-Alerts-Test		1	0
+583	hpique	Potes-iOS	0	Yet another Notes app for iOS	https://github.com/hpique/Potes-iOS		4	1
+584	Flagship8787	iOS-Streaming-Client	0	Stream Video and Audio from iPhone	https://github.com/Flagship8787/iOS-Streaming-Client		2	2
+585	hackforacause	SocialToolkit-iOS	0	A basic framework for kicking off additional Hack for a Cause apps.	https://github.com/hackforacause/SocialToolkit-iOS		1	0
+586	Viximo	ViximoSDK-iOS	0	Viximo SDK for iOS devices	https://github.com/Viximo/ViximoSDK-iOS	https://dev.mobile.viximo.com/	2	0
+587	labeldock	Eulji-iOS	0	Eulji university iOS app	https://github.com/labeldock/Eulji-iOS	open9.net/provide/iEU	1	0
+588	alexcash	iOS-Resume	0	This is a personal resume project for iPhone I used to learn ARC and Storyboarding	https://github.com/alexcash/iOS-Resume		0	0
+589	VimCommando	Hello-iOS-World	0		https://github.com/VimCommando/Hello-iOS-World		1	0
+590	thadeurc	iOS-Happiness	0		https://github.com/thadeurc/iOS-Happiness		1	0
+591	garrettheath4	iOS-BatteryMonitor	0	A simple utility app to minitor battery life.	https://github.com/garrettheath4/iOS-BatteryMonitor		1	1
+592	boycechang	SBBS-iOS-Client	0		https://github.com/boycechang/SBBS-iOS-Client		3	1
+593	robwettach	iOS-Walkthrough	0	Stanford iOS Class Walkthrough	https://github.com/robwettach/iOS-Walkthrough		1	0
+594	yetithefoot	Hymns-for-iOS	0	Hymns-for-iOS	https://github.com/yetithefoot/Hymns-for-iOS		1	0
+595	Mac-Hall-Productions	3PS-iOS	0	iOS app for Three Panel Soul	https://github.com/Mac-Hall-Productions/3PS-iOS		1	0
+596	ArnoBost	Calculator-for-iOS	0	RPN-Calculator for Coding together class of Stanford University, CS193P, Assignment 1	https://github.com/ArnoBost/Calculator-for-iOS		8	0
+597	jetheis	Flashlight-iOS	0	A simple, open flashlight for iPhones	https://github.com/jetheis/Flashlight-iOS		1	0
+598	alexlapinski	Sparx-iOS	0	Sparx Prototype - Simple iPhone app for selecting contact from address book & converting it to QRCode, then from QRCode back to contact	https://github.com/alexlapinski/Sparx-iOS		2	0
+599	gitx1	iOS-Test	0	This is a test for Xcode Project	https://github.com/gitx1/iOS-Test		1	0
+600	angellee	iOS-memoryChallenger	0	"iOS version of the old school game ""Simon Says"""	https://github.com/angellee/iOS-memoryChallenger		1	0
+601	hingarn	iOS-101	0	A simple project used in my iOS workshop during CodeFoo 2012 at IGN Entertainment 	https://github.com/hingarn/iOS-101		0	0
+602	TomCorwine	NetworkingTest-iOS	0	A simple test for finding out how many concurrent connections is optimal.	https://github.com/TomCorwine/NetworkingTest-iOS		1	0
+603	jceipek	iOS-Widgets	0	Some useful widgets	https://github.com/jceipek/iOS-Widgets		1	0
+604	angellee	iOS-tipsCalculator	0	An iOS app that calculates tips amount before tax.	https://github.com/angellee/iOS-tipsCalculator		1	0
+605	uttrasey	iOS-Hello-World	0	A playground for Objective C concepts and testing	https://github.com/uttrasey/iOS-Hello-World		0	0
+606	steeleforge	iOS-Railtime	0	toy iOS app - may not run on actual device	https://github.com/steeleforge/iOS-Railtime		0	0
+607	dextar1	simple-iOS-app	0		https://github.com/dextar1/simple-iOS-app		0	0
+608	felipelm	Appliance-iOS	0	Appliance App.Net iOS Client	https://github.com/felipelm/Appliance-iOS		0	1
+609	mvx24	iOS-LocationManager	0	Singleton class for updating the current location.	https://github.com/mvx24/iOS-LocationManager		0	0
+610	adamenagy	iOS-Viewer	0		https://github.com/adamenagy/iOS-Viewer		0	0
+611	Netmera	NetmeraIScore-iOs	0	NetmeraScore is an iOS application that generates you a score and keep it on netmera servers, shows your global position of all players and use netmera cache technology.	https://github.com/Netmera/NetmeraIScore-iOs	www.netmera.com	4	1
+612	BasementKrew	Kontify-iOS	0	iOS library for the Kontify service	https://github.com/BasementKrew/Kontify-iOS		0	0
+613	AndreaBarbon	Pettinelli-iOS	0	iOS app for Pettinelli store	https://github.com/AndreaBarbon/Pettinelli-iOS		1	2
+614	rhildreth	iOS-Test	0	Test github	https://github.com/rhildreth/iOS-Test		0	0
+615	krunduev	Test-iOS	0		https://github.com/krunduev/Test-iOS		0	0
+616	facascante	iOS-Navigation	0	Example Code for iOS Navigation	https://github.com/facascante/iOS-Navigation		0	1
+617	mdznr	iOS-Passcode	0	Passcode app for iOS	https://github.com/mdznr/iOS-Passcode		4	1
+618	t2health	PECoach-iOS	0		https://github.com/t2health/PECoach-iOS		0	0
+619	rocketsauce	Badgame-iOS	0	Badgame forum app for iOS	https://github.com/rocketsauce/Badgame-iOS		0	0
+620	415bike	415bike-iOS	0	iOS Client for 415bike	https://github.com/415bike/415bike-iOS		8	0
+621	gbarcia	iOS-example1	0	Prácticas IOS -1	https://github.com/gbarcia/iOS-example1		0	0
+622	torfeld6	Snow-Budy-iOS	0		https://github.com/torfeld6/Snow-Budy-iOS		0	0
+623	nileshkaria	iOS-Calculator	0	Test program - CS193P	https://github.com/nileshkaria/iOS-Calculator		0	0
+624	ferbass	iOS-ApplicationTemplate	0	A great template for iOS applications	https://github.com/ferbass/iOS-ApplicationTemplate	http://www.ferbass.com/	7	2
+625	libingcun	Rocky-iOS	0		https://github.com/libingcun/Rocky-iOS		2	0
+626	mrmans0n	AnimeUnderground-iOS	0	Versión de la aplicación de AU para iOS	https://github.com/mrmans0n/AnimeUnderground-iOS		4	2
+627	GeekPower	Social-Recommendations-iOS	0		https://github.com/GeekPower/Social-Recommendations-iOS		3	0
+628	badeleux	Interpolation-for-iOS	0		https://github.com/badeleux/Interpolation-for-iOS		1	0
+629	jcaudle	iOS-HelloWorld	0	HelloWorld for iOS	https://github.com/jcaudle/iOS-HelloWorld		1	0
+630	fjolnir	Dynamo-iOS-Sample	0	A simple iOS sample for Dynamo	https://github.com/fjolnir/Dynamo-iOS-Sample		1	0
+631	jmoody	ExploreCalabash-iOS	0	project to explore calabash-ios test framework	https://github.com/jmoody/ExploreCalabash-iOS		2	0
+632	denniss	iOS-Homepwner	0	homepwner	https://github.com/denniss/iOS-Homepwner		1	0
+633	JeffLutzenberger	iOS-Simple-Camera	0		https://github.com/JeffLutzenberger/iOS-Simple-Camera		1	0
+634	Shein	Foursquare-Venues-iOS	0	Basic iOS interface for no-auth required APIs for Foursquare	https://github.com/Shein/Foursquare-Venues-iOS		1	1
+635	denniss	iOS-rotation	0	rotation	https://github.com/denniss/iOS-rotation		1	0
+636	Lingxhai	Toast-for-iOS	0	A toast like Android, modify by myself (from iToast)	https://github.com/Lingxhai/Toast-for-iOS		0	0
+637	Codasign	iOS-Gestures-Demo	0		https://github.com/Codasign/iOS-Gestures-Demo		1	1
+638	emmett9001	iOS-OpenGL	0		https://github.com/emmett9001/iOS-OpenGL		0	0
+639	teddywing	babblr-iOS	0	Real-time chatting within a location, iOS client | Storyhack Boston 2012.09.29	https://github.com/teddywing/babblr-iOS		1	1
+640	BMillman19	iOS-Categories	0	A collection of useful categories extending functionality of some built in iOS and Cocoa objects	https://github.com/BMillman19/iOS-Categories		2	0
+641	betzerra	MosaicUI	0	A tiled UI for iOS and iPhone	https://github.com/betzerra/MosaicUI		480	62
+642	muhku	calendar-ui	0	MACalendarUI is a project which offers calendar user interface for iPhone applications.	https://github.com/muhku/calendar-ui		194	60
+643	twitter	twui	0	A UI framework for Mac based on Core Animation	https://github.com/twitter/twui		2296	207
+644	klazuka	Kal	0	A calendar component for the iPhone (the UI is designed to match MobileCal)	https://github.com/klazuka/Kal	http://www.thepolypeptides.com	1098	271
+645	jessesquires	MessagesTableViewController	0	A messages UI for iPhone and iPad.	https://github.com/jessesquires/MessagesTableViewController		391	71
+646	steipete	PSStackedView	0	open source implementation of Twitter/iPad stacked ui - done right.	https://github.com/steipete/PSStackedView	http://twitter.com/steipete	1486	187
+647	appunite	CLCascade	0	Twitter-like cascade UI library	https://github.com/appunite/CLCascade	http://appunite.com/	475	63
+648	takashisite	TSPopover	0	UIPopover like UI for iPhone	https://github.com/takashisite/TSPopover		240	46
+649	gresrun	GHSidebarNav	0	A clone of the new Facebook iOS UI paradigm	https://github.com/gresrun/GHSidebarNav		376	77
+650	AlexBarinov	UIBubbleTableView	0	Cocoa UI component for chat bubbles with avatars and images support	https://github.com/AlexBarinov/UIBubbleTableView	http://alexbarinov.github.com/UIBubbleTableView/	459	120
+651	typeoneerror	GKAchievementNotification	0	Game Center styled UI notifications	https://github.com/typeoneerror/GKAchievementNotification	http://typeoneerror.com/blog/post/game-center-achievement-notification	204	46
+652	robertwijas	UISS	0	UIAppearance Stylesheets	https://github.com/robertwijas/UISS		562	25
+653	TouchCode	TouchUI	0		https://github.com/TouchCode/TouchUI		73	10
+654	andrewroycarter	TimeScroller	0	A UI Element that hovers beside the scroll bar of a UITableView (Mimicking the Path app).	https://github.com/andrewroycarter/TimeScroller		598	65
+655	meiwin	BTBreadcrumbView	0	iOS breadcrumb UI control	https://github.com/meiwin/BTBreadcrumbView		211	22
+656	OSEHR	NewUI	0	New User Interfaces for VistA based on EWD	https://github.com/OSEHR/NewUI		2	40
+657	k06a	ABCalendarPicker	0	Fully configurable iOS calendar UI component with multiple layouts and smooth animations.	https://github.com/k06a/ABCalendarPicker		496	43
+658	cocopon	CQMFloatingController	0	Floating UI component with navigation bar for iPhone	https://github.com/cocopon/CQMFloatingController		212	33
+659	KieranLafferty	KLHorizontalSelect	0	A UI Control based on 8tracks home screen section select	https://github.com/KieranLafferty/KLHorizontalSelect		298	48
+660	ardalahmet	SSCheckBoxView	0	SSCheckBoxView is a check box UI control for iOS apps.	https://github.com/ardalahmet/SSCheckBoxView	http://www.ardalahmet.com/2011/12/07/sscheckboxview-a-check-box-ui-control-for-ios-apps	139	36
+661	erica	uidevice-extension	0	Add functionality to UIDevice to distinguish between platforms like iPod touch 1G and 2G and iPhone	https://github.com/erica/uidevice-extension		711	175
+662	serverdensity	ios-SDNestedTable	0	Obj-C module built on UITableView for creating a 2-level nested list UI control. iOS 4.0+	https://github.com/serverdensity/ios-SDNestedTable		417	68
+663	mindbrix	UIImage-PDF	0	Simple UIImage PDF renderer category for iOS scalable assets	https://github.com/mindbrix/UIImage-PDF		528	42
+664	MassiveHealth	Opaque	0	A prototype UI showing how one would implement an app with Clear-like animations & gestures.	https://github.com/MassiveHealth/Opaque		419	63
+665	mykeepass	MyKeePass	0	MyKeePass UI	https://github.com/mykeepass/MyKeePass		40	14
+666	digdog	DDActionHeaderView	0	Header with title and actions, rapid UI component for quick hands on iOS 4	https://github.com/digdog/DDActionHeaderView	http://digdog.tumblr.com/post/1490527582/design-of-ios-ui-component	312	28
+667	nicklockwood	AsyncImageView	0	AsyncImageView is a simple extension of UIImageView for loading and displaying images asynchronously on iOS so that they do not lock up the UI.	https://github.com/nicklockwood/AsyncImageView	http://charcoaldesign.co.uk/source/cocoa#asyncimageview	287	68
+668	waterlou	UIGlossyButton	0	Generate system like or other nice button without any image	https://github.com/waterlou/UIGlossyButton		449	66
+669	jivadevoe	UIAlertView-Blocks	0	A category for UIAlertView which allows you to use blocks to handle the pressed button events rather than implementing a delegate.	https://github.com/jivadevoe/UIAlertView-Blocks		341	76
+670	rsms	cocui	0	Cocoa meets WebKit for more rapid UI development	https://github.com/rsms/cocui		342	13
+671	MPiccinato	SlidingTabs	0	Sliding tabs UI element for iPhone	https://github.com/MPiccinato/SlidingTabs		116	15
+672	MugunthKumar	MKEntryPanelDemo	0	Entry Panel UI	https://github.com/MugunthKumar/MKEntryPanelDemo	http://mk.sg/8g	72	13
+673	heikomaass	HMLauncherView	0	UI component for buttons like Apple's SpringBoard	https://github.com/heikomaass/HMLauncherView		144	19
+674	soundcloud	CocoaSoundCloudUI	0		https://github.com/soundcloud/CocoaSoundCloudUI		17	14
+675	0xced	UIKit-Artwork-Extractor	0	Extract UIKit artwork and emoji symbols into png files, generate glossy buttons png files	https://github.com/0xced/UIKit-Artwork-Extractor		1438	87
+676	gdawg	uiimage-dsp	0	IOS UIImage processing functions using the vDSP/Accellerate framework for speed. 	https://github.com/gdawg/uiimage-dsp	http://mad-dog-software.com	279	28
+677	millenomi	muikit	0	A collection of UI goodies for iPhone.	https://github.com/millenomi/muikit	http://infinite-labs.net/	144	7
+678	ardalahmet	SSPhotoCropperViewController	0	SSPhotoCropperViewController is a custom view controller that provides UI for cropping and scaling photos in iPhone / iPod Touch apps.	https://github.com/ardalahmet/SSPhotoCropperViewController	http://www.ardalahmet.com/2011/10/17/ssphotocropperviewcontroller-a-custom-viewcontroller-that-provides-ui-for-cropping-photos-in-ios-apps/	189	39
+679	zhangxigithub	BlockUI	0	UIControl use block as call back.easy,simple and high performance	https://github.com/zhangxigithub/BlockUI	http://zhangxi.me	13	8
+680	iaefai	OrganicUI	0	Cocoa User Interface Additions	https://github.com/iaefai/OrganicUI	http://web.me.com/iaefai/OrganicUI	25	5
+681	bharath2020	UITableViewTricks	0	Simple UITableView tricks with focus on UITableViewCell Layout	https://github.com/bharath2020/UITableViewTricks		294	62
+682	workshirt	WSCoachMarksView	0	iOS drop-in class for interactive coach marks with cutouts to spotlight the app's existing UI.	https://github.com/workshirt/WSCoachMarksView		369	20
+683	Kjuly	KYCircleMenu	0	An open source iOS UI control that allows you to build a circular menu by laying out buttons in a circle pattern adjusting from the number of buttons (1~6).	https://github.com/Kjuly/KYCircleMenu		325	61
+684	capttaco	Briefs-sharedUI	0	A Cocoa Touch library that renders briefs and responds to control events. 	https://github.com/capttaco/Briefs-sharedUI	http://giveabrief.com/	32	6
+685	digdog	UIDickBar	0	Dickbar, Twitter's mainstream consumer client experience, now available for your iOS apps too.	https://github.com/digdog/UIDickBar	http://digdog.tumblr.com/post/3698410636/uidickbar-an-awful-idea	301	17
+686	kovpas	PMCalendar	0	Yet another calendar component for iOS. Compatible with iOS 4.0 (iPhone & iPad) and higher. Supports presenting as a popover and very flexible UI tuning. Default theme is inspired by https://github.com/ocrickard/OCCalendar	https://github.com/kovpas/PMCalendar		286	54
+687	inamiy	YIFullScreenScroll	0	Pinterest-like scroll-to-fullscreen UI for iOS5+.	https://github.com/inamiy/YIFullScreenScroll	http://www.cocoacontrols.com/controls/yifullscreenscroll	95	11
+688	rnystrom	RNExpandingButtonBar	0	iOS UI widget that mimics the famous button used by the app Path.	https://github.com/rnystrom/RNExpandingButtonBar		108	16
+689	ayoy	ThumbnailPickerView	0	iOS UI control displaying a set of thumbnails - resembling iPad's Photos.app toolbar thumbnails view	https://github.com/ayoy/ThumbnailPickerView		148	24
+690	gekitz	UIDevice-with-UniqueIdentifier-for-iOS-5	0	Brings back the unique identifier support under iOS 5, it uses the device's mac address in combination with the bundle identifier to generate a new hashed unique identifier.	https://github.com/gekitz/UIDevice-with-UniqueIdentifier-for-iOS-5		1158	181
+691	mbcharbonneau	UIImage-Categories	0	An fork of Trevor Harmon's UIImage category methods, updated for the latest versions of iOS.	https://github.com/mbcharbonneau/UIImage-Categories	http://vocaro.com/trevor/blog/2009/10/12/resize-a-uiimage-the-right-way/	178	55
+692	jazzychad	CEGuideArrow	0	A custom iOS UI control to point at things.	https://github.com/jazzychad/CEGuideArrow		93	10
+693	katokichisoft	KSPopoverView	0	A pulldown menu UI for iOS	https://github.com/katokichisoft/KSPopoverView		44	8
+694	chiahsien	UICollectionViewWaterfallLayout	0	The waterfall (i.e., Pinterest-like) layout for UICollectionView introduced in iOS 6.	https://github.com/chiahsien/UICollectionViewWaterfallLayout		481	57
+695	scopegate	octave	0	Octave: A free library of UI sounds, handmade for iOS	https://github.com/scopegate/octave	http://raisedbeaches.com/octave	132	8
+696	kishikawakatsumi	VoiceNavigation	0	UI Navigation by voice dictation on iOS 5.1	https://github.com/kishikawakatsumi/VoiceNavigation	http://kishikawakatsumi.com	43	12
+697	xslim	TKGauge	0	iOS UI component to display speed gauge	https://github.com/xslim/TKGauge		48	11
+698	el-eleven	EEToolbarCenterButton	0	UI component to add a featured button to the center of UIToolbar.	https://github.com/el-eleven/EEToolbarCenterButton	http://fotovidia.com/2012/02/how-to-add-a-featured-center-button-to-uitoolbar-like-fotovidia/	65	9
+699	tanin47	UIGridView	0	UIGridView offers a simple way to use a grid (multiple-column UITableView) on iOS	https://github.com/tanin47/UIGridView		58	23
+700	jasarien	JSLockScreen	0	A Lock Screen UI Component that aims to replicate the iOS lock screen in functionality and style.	https://github.com/jasarien/JSLockScreen		100	17
+701	qfish	SkinnedUI	0	A demo of changging theme/skin in iOS.	https://github.com/qfish/SkinnedUI		6	5
+702	akosma	async-uitableview	0	Sample project using the ASIHTTPRequest to load the public Flickr RSS feed, and then load the images in a UITableView in asynchronous fashion	https://github.com/akosma/async-uitableview	http://kosmaczewski.net/projects/asynchronous-uitableview/	133	22
+703	koedal	BeautifyUI	0	Drawing Custom UI Components for iOS	https://github.com/koedal/BeautifyUI		6	5
+704	terryxiao	UI	0		https://github.com/terryxiao/UI		1	0
+705	enormego	UIKit	0	Port of iPhone's UIKit for Mac OS X	https://github.com/enormego/UIKit	http://developers.enormego.com	80	7
+706	torinnguyen	StackBoxDemoFree	0	A beautiful 3D list UI library for iPhone	https://github.com/torinnguyen/StackBoxDemoFree		21	16
+707	kishikawakatsumi	UICKeyChainStore	0	UICKeyChainStore is a simple wrapper for Keychain on iOS. Makes using Keychain APIs as easy as NSUserDefaults.	https://github.com/kishikawakatsumi/UICKeyChainStore	http://kishikawakatsumi.com	171	23
+708	KJoyner	SeaGlass	0	SeaGlass is a collection of re-usable iOS UI classes.	https://github.com/KJoyner/SeaGlass		35	10
+709	thesecretlab	UIView-Glow	0	UIView+Glow is a category on UIView that adds support for making views glow.	https://github.com/thesecretlab/UIView-Glow	http://blog.secretlab.com.au/2012/06/23/glowing/	111	11
+710	MugunthKumar	UIKitCategoryAdditions	0	Block based Category additions for AlertView and ActionSheets	https://github.com/MugunthKumar/UIKitCategoryAdditions	http://blog.mugunthkumar.com/coding/ios-code-block-based-uialertview-and-uiactionsheet	186	42
+711	shu223	UIActivityCollection	0	A collection of iOS6 UIActivity providers.	https://github.com/shu223/UIActivityCollection		154	19
+712	rcdilorenzo	LDGradientButton	0	Subclassing UIButton to create UI awesomeness.	https://github.com/rcdilorenzo/LDGradientButton		38	6
+713	joericioppo	CAGradientLayer_UI	0	Example of using CAGradientLayer to draw custom interface elements	https://github.com/joericioppo/CAGradientLayer_UI	http://tumbljack.com/post/188089679/gpu-accelerated-awesomeness-with-cagradientlayer	52	2
+714	el-eleven	EECircularMusicPlayerControl	0	UI control to play a music and indicate its progress for iOS	https://github.com/el-eleven/EECircularMusicPlayerControl		43	10
+715	OliverLetterer	UIExpandableTableView	0	UIExpandableTableView is a UITableView subclass that gives you easy access to expandable and collapsable sections by just implementing a few more delegate and dataSource protocols. (iPhone, iPad, iOS)	https://github.com/OliverLetterer/UIExpandableTableView		157	32
+716	marshluca	AudioPlayer	0	An online iOS audio player based on AVAudioStreamer with a custom UI.	https://github.com/marshluca/AudioPlayer	https://github.com/marshluca/AudioPlayer	28	13
+717	icanzilb	UIEffectDesignerView	0	A native Particle Systems effect view for iOS and OSX powered by QuartzCore	https://github.com/icanzilb/UIEffectDesignerView	http://www.touch-code-magazine.com/uieffectdesigner/	136	17
+718	borochris	CLinUiP	0	Clinical UI Portal	https://github.com/borochris/CLinUiP		6	5
+719	atnan	UIWebViewWebGL	0	Demo of WebGL-enabled UIWebViews	https://github.com/atnan/UIWebViewWebGL		61	16
+720	jasoncmartin	StoreKitUI	0	Provides a simple front-end user interface for StoreKit.	https://github.com/jasoncmartin/StoreKitUI		29	3
+721	shu223	UIKitForGame	0	UIKit subclasses and categories with useful animation functions for game.	https://github.com/shu223/UIKitForGame	http://d.hatena.ne.jp/shu223/20120806/1344151527	66	15
+722	uicoderz	uickit	0		https://github.com/uicoderz/uickit	http://groups.google.co.jp/group/uicoderz	47	8
+723	beat843796	HEBubbleView	0	iOS UI Component for displaying bubble similar to the Mail app wenn selecting contacts	https://github.com/beat843796/HEBubbleView		56	12
+724	AliSoftware	UIImage-Resize	0	Category to add some resizing methods to the UIImage class, to resize it to a given CGRect — or fit in a CGRect keeping aspect ratio	https://github.com/AliSoftware/UIImage-Resize		74	14
+725	giladno	UICoreTextView	0	Easy to use UIView which supports rendering using CoreText	https://github.com/giladno/UICoreTextView		60	13
+726	EddyBorja	UIColor-MLPFlatColors	0	A category for UIColor that adds flat UI color methods.	https://github.com/EddyBorja/UIColor-MLPFlatColors		51	5
+727	TomThorpe	UITableViewZoomController	0	A Cocoa Touch UITableViewController subclass in Objective C that provides a zoom effect as cells appear for the first time (similar in style to Google+ iPhone app)	https://github.com/TomThorpe/UITableViewZoomController		165	21
+728	twotoasters	UISpec	0	Git SVN Clone of UISpec	https://github.com/twotoasters/UISpec	http://code.google.com/p/uispec/	23	10
+729	akisute	UIApplication-UIID	0	Unique Installation Identifier (UIID) as a replacement of the depreciated UDID in iOS 5.	https://github.com/akisute/UIApplication-UIID	http://akisute.com/2011/08/udiduiid.html	45	10
+730	chaione	ChaiOneUI	0	Useful shared components for iOS development	https://github.com/chaione/ChaiOneUI		20	3
+731	yeahren	HFUi	0	UI	https://github.com/yeahren/HFUi		1	0
+732	alexrepty	Paging-Enabled-UIScrollView-With-Previews	0	Sample project showing how to create a paging-enabled UIScrollView which shows previews of neighbouring content.	https://github.com/alexrepty/Paging-Enabled-UIScrollView-With-Previews	http://blog.proculo.de/archives/180-Paging-enabled-UIScrollView-With-Previews.html	120	21
+733	moredip	UISpec	0	mirror of the official UISpec SVN repo on google code	https://github.com/moredip/UISpec	http://code.google.com/p/uispec/	17	11
+734	Zedenem	UICircularSlider	0	an iOS UISlider which displays value in a circle / pie.	https://github.com/Zedenem/UICircularSlider		63	16
+735	funkyboy	How-To-Create-a-Rotating-Wheel-Control-with-UIKit	0	"Code for the tutorial ""How To Create a Rotating Wheel Control with UIKit"" published on raywenderlich.com"	https://github.com/funkyboy/How-To-Create-a-Rotating-Wheel-Control-with-UIKit	http://www.raywenderlich.com/9864/how-to-create-a-rotating-wheel-control-with-uikit	235	39
+736	cxa	UIMenuItem-CXAImageSupport	0	UIMenuItem with Image Support	https://github.com/cxa/UIMenuItem-CXAImageSupport		210	14
+737	kballard	uicolor-utilities	0	Helpful utilities for UIColor	https://github.com/kballard/uicolor-utilities	http://arstechnica.com/apple/guides/2009/02/iphone-development-accessing-uicolor-components.ars	10	70
+738	hsjunnesson	UIViewDrawRectBlock	0	A category on UIView to create an instance with a block for its drawRect.	https://github.com/hsjunnesson/UIViewDrawRectBlock		92	11
+739	viezel	NappSlideMenu	0	a new UI component for Appcelerator Titanium 	https://github.com/viezel/NappSlideMenu		30	4
+740	mbrandonw	OPEventTracker	0	"The simplest way to answer the question: ""Are there any UI events taking place right now?"""	https://github.com/mbrandonw/OPEventTracker		159	5
+741	superpigy	BlockUI	0	Codeless library for implementing your 'metro' style app	https://github.com/superpigy/BlockUI		1	0
+742	pryomoax	PhonosUI	0	Phonos extensions and support classes based off the UIKit Framework from Apple.	https://github.com/pryomoax/PhonosUI		3	0
+743	bryceredd	UI-Demo	0		https://github.com/bryceredd/UI-Demo		1	0
+744	wislee	HoverUI	0	rewrite apple's HeadsUpUI to make the code more compact and the structure more clear	https://github.com/wislee/HoverUI		0	0
+745	mihaiserban	CustomUI	0	Repository containing custom UI objects	https://github.com/mihaiserban/CustomUI		0	0
+746	CocoaPods	CocoaPods	0	The Objective-C library dependency manager.	https://github.com/CocoaPods/CocoaPods	cocoapods.org	2386	281
+747	robbiehanson	CocoaLumberjack	0	A fast & simple, yet powerful & flexible logging framework for Mac and iOS	https://github.com/robbiehanson/CocoaLumberjack		1390	240
+748	robbiehanson	CocoaHTTPServer	0	A small, lightweight, embeddable HTTP server for Mac OS X or iOS applications	https://github.com/robbiehanson/CocoaHTTPServer		929	213
+749	ReactiveCocoa	ReactiveCocoa	0	A framework for composing and transforming streams of values	https://github.com/ReactiveCocoa/ReactiveCocoa		1392	119
+750	robbiehanson	CocoaAsyncSocket	0	Asynchronous socket networking library for Mac and iOS	https://github.com/robbiehanson/CocoaAsyncSocket		1385	329
+751	enormego	cocoa-helpers	0	A collection of helpers (categories) we've written for iOS and OS X, full with convenience methods to make them easier and more useful. [tags:cocoa,objective-c,ios,mac]	https://github.com/enormego/cocoa-helpers	http://developers.enormego.com	703	64
+752	couchbaselabs	CouchCocoa	0	Objective-C API for CouchDB on iOS and Mac OS	https://github.com/couchbaselabs/CouchCocoa	http://couchbaselabs.github.com/CouchCocoa/docs/	209	72
+753	ccgus	fmdb	0	A Cocoa / Objective-C wrapper around SQLite	https://github.com/ccgus/fmdb		2595	519
+754	github	Mantle	0	Model framework for Cocoa and Cocoa Touch	https://github.com/github/Mantle		1161	60
+755	gyetvan-andras	cocoa-waveform	0	A cocoa audio player component which displays the waveform of the audio file.	https://github.com/gyetvan-andras/cocoa-waveform		129	32
+756	netshade	Cocoa-Touch-Barcodes	0	Fork of Jeff Lamarche's original barcode generator library at http://code.google.com/p/cocoabarcodes/	https://github.com/netshade/Cocoa-Touch-Barcodes		217	34
+757	spotify	cocoalibspotify	0	A Cocoa wrapper for libspotify	https://github.com/spotify/cocoalibspotify		392	84
+758	fpotter	socketio-cocoa	0	Cocoa interface to Socket.IO by way of WebSockets.	https://github.com/fpotter/socketio-cocoa		133	18
+759	github	Rebel	0	Cocoa framework for improving AppKit	https://github.com/github/Rebel		670	42
+760	robin	cocoa-web-resource	0	A file transfer solution for iPhone and iPod Touch. Support uploading, download and delete files via browser.	https://github.com/robin/cocoa-web-resource		151	30
+761	soundcloud	cocoa-api-wrapper	0	A Cocoa wrapper for SoundCloud that works on iPhone/iPod Touch and Mac OS X	https://github.com/soundcloud/cocoa-api-wrapper	http://soundcloud.com/api	137	27
+762	mmattozzi	cocoa-rest-client	0	A native OS X cocoa application for testing HTTP endpoints	https://github.com/mmattozzi/cocoa-rest-client	http://code.google.com/p/cocoa-rest-client/	129	24
+763	soundcloud	CocoaSoundCloudAPI	0		https://github.com/soundcloud/CocoaSoundCloudAPI		93	25
+764	parmanoir	jscocoa	0	Write Cocoa applications in Javascript	https://github.com/parmanoir/jscocoa	http://inexdo.com/JSCocoa	367	36
+765	nesium	cocoa-amf	0	Objective-C implementation of the Flash Remoting format (AMF0/AMF3) for servers and clients.	https://github.com/nesium/cocoa-amf		107	12
+766	steipete	NSLogger-CocoaLumberjack-connector	0	a match made in heaven	https://github.com/steipete/NSLogger-CocoaLumberjack-connector	http://github.com/steipete/NSLogger-CocoaLumberjack-connector/blob/master/README.markdown	99	21
+767	AlexBarinov	UIBubbleTableView	0	Cocoa UI component for chat bubbles with avatars and images support	https://github.com/AlexBarinov/UIBubbleTableView	http://alexbarinov.github.com/UIBubbleTableView/	459	120
+768	play	play-cocoa	0	OS X and iOS clients for Play	https://github.com/play/play-cocoa		44	14
+769	kgn	KGNoise	0	Cocoa noise drawing code + a ready to go noise view!	https://github.com/kgn/KGNoise		705	75
+770	shpakovski	Popup	0	Cocoa project with Popup window appearing from the status bar	https://github.com/shpakovski/Popup	http://blog.shpakovski.com/2011/07/cocoa-popup-window-in-status-bar.html	429	93
+771	mzarra	ZSync	0	Syncing framework for Cocoa Touch	https://github.com/mzarra/ZSync		364	17
+772	mugginsoft	Fragaria	0	Cocoa syntax highlighting text view	https://github.com/mugginsoft/Fragaria	http://www.mugginsoft.com/code/fragaria	174	37
+773	curthard89	COCOA-Stuff	0	Just code by me	https://github.com/curthard89/COCOA-Stuff	http://www.geekygoodness.com	60	9
+774	protocool	AckMate	0	TextMate plugin (Cocoa) shell for running 'ack'	https://github.com/protocool/AckMate		759	25
+775	groue	GRMustache	0	Flexible and production-ready Mustache templates for MacOS Cocoa and iOS	https://github.com/groue/GRMustache	http://mustache.github.com/	455	63
+776	jspahrsummers	libextobjc	0	A Cocoa library to extend the Objective-C programming language.	https://github.com/jspahrsummers/libextobjc		563	30
+777	mikeash	MAKVONotificationCenter	0	Better key-value observing for Cocoa	https://github.com/mikeash/MAKVONotificationCenter		189	32
+778	nevyn	cfxr	0	[cocoa] Mac port of sfxr	https://github.com/nevyn/cfxr	http://thirdcog.eu/apps/cfxr	150	24
+779	samvermette	SVGeocoder	0	Simple Cocoa wrapper for the Google Geocoding Service	https://github.com/samvermette/SVGeocoder	http://samvermette.com/164	229	45
+780	davedelong	DDHotKey	0	Simple Cocoa global hotkeys	https://github.com/davedelong/DDHotKey		155	21
+781	specialunderwear	Hosts.prefpane	0	a Cocoa GUI for /etc/hosts	https://github.com/specialunderwear/Hosts.prefpane	http://niggazpullintriggaz.blogspot.com/2011/11/how-i-managed-to-edit-etchosts-without.html	303	13
+782	github	Archimedes	0	Geometry functions for Cocoa and Cocoa Touch	https://github.com/github/Archimedes		195	9
+783	petejkim	expecta	0	A Matcher Framework for Objective-C/Cocoa	https://github.com/petejkim/expecta		159	25
+784	talkative	cocoa-websocket	0	a WebSocket class for Cocoa, based on AsyncSocket and code from Esad Hajdarevic	https://github.com/talkative/cocoa-websocket		3	29
+785	rsms	peertalk	0	iOS and OS X Cocoa library for communicating over USB and TCP	https://github.com/rsms/peertalk	http://rsms.me/peertalk/	376	39
+786	fadingred	Greenwich	0	A Cocoa framework for localization	https://github.com/fadingred/Greenwich		211	12
+787	cocoacamp	CocoaCamp-iOS-App	0	iOS App for the (un)conference event of people interested in developing on the iPad, iPhone, iPod touch & Mac OS X.	https://github.com/cocoacamp/CocoaCamp-iOS-App	http://www.cocoacamp.org	43	16
+788	kelp404	CocoaSecurity	0	Encrypt/Decrypt: AES. Hash: MD5, SHA(SHA1, SHA224, SHA256, SHA384, SHA512). Encode/Decode: Base64, Hex.	https://github.com/kelp404/CocoaSecurity		58	6
+789	greenisus	cocoa-rss	0	RSS Parser for Cocoa Touch (iPhone/iPad)	https://github.com/greenisus/cocoa-rss		42	7
+790	Caged	httpriot	0	Simple HTTP Rest Library for iPhone and Cocoa projects.	https://github.com/Caged/httpriot	https://github.com/ognen/httpriot/tree/	295	22
+791	jerrykrinock	CategoriesObjC	0	General-purpose categories of Cocoa classes.	https://github.com/jerrykrinock/CategoriesObjC		130	20
+792	yatsu	treemapkit	0	TreeMap for Cocoa Touch (iPhone/iPod touch/iPad)	https://github.com/yatsu/treemapkit	http://github.com/yatsu/treemapkit	190	25
+793	rsms	chromium-tabs	0	Chromium tabs for cocoa applications. Developed as part of Kod (rsms/kod)	https://github.com/rsms/chromium-tabs		297	35
+794	venj	Cocoa-blog-code	0	Cocoa blog sample code	https://github.com/venj/Cocoa-blog-code	http://cocoa.venj.me	38	11
+795	kevinoneill	Useful-Bits	0	A Collection of Useful Cocoa and UIKit Bits	https://github.com/kevinoneill/Useful-Bits		122	19
+796	dustinrue	CocoaTentClient	0	very simple proof of concept tent.io client written in Objective-C	https://github.com/dustinrue/CocoaTentClient		36	11
+797	shpakovski	MASPreferences	0	Custom implementation of Preferences window in Cocoa applications for Mac OS X	https://github.com/shpakovski/MASPreferences	http://blog.shpakovski.com/2011/04/preferences-windows-in-cocoa.html	264	34
+798	endSly	Log4Cocoa	0	Log4Cocoa is a Log4j port for iOS and Mac OS X	https://github.com/endSly/Log4Cocoa	http://endika.net/blog	27	13
+799	st3fan	cocoa-utils	0	Misc utility classes for Cocoa	https://github.com/st3fan/cocoa-utils		25	8
+800	itod	parsekit	0	Objective-C/Cocoa String Tokenizer and Parser toolkit. Supports Grammars.	https://github.com/itod/parsekit	http://parsekit.com	272	31
+801	Perspx	PXListView	0	An optimized Cocoa list view for Mac OS X 10.5 and greater	https://github.com/Perspx/PXListView		193	39
+802	kballard	feedparser	0	A Cocoa RSS/Atom parser for Mac OS X and the iPhone	https://github.com/kballard/feedparser		254	30
+803	mattrajca	DAVKit	0	A Cocoa framework for talking to WebDAV servers	https://github.com/mattrajca/DAVKit	http://mattrajca.com	74	23
+804	schwa	AppStream	0	Cocoa AppDotNet client.	https://github.com/schwa/AppStream		89	13
+805	TouchCode	TouchHTTPD	0	An iOS compatible Cocoa Web Server.	https://github.com/TouchCode/TouchHTTPD		78	20
+806	eczarny	xmlrpc	0	The Cocoa XML-RPC Framework is a lightweight XML-RPC client framework for Mac OS X and iOS.	https://github.com/eczarny/xmlrpc		253	67
+807	Objective3	ElementParser	0	ElementParser is lightweight Cocoa Framework (usable on the iPhone) to provide easy access to XML and HTML content.	https://github.com/Objective3/ElementParser	http://touchtank.wordpress.com/element-parser/	433	43
+808	sergeylenkov	Yuba	0	Cocoa framework for drawing graphs, charts and maps	https://github.com/sergeylenkov/Yuba		162	19
+809	hpux735	Cocoa-Radio	0	"A full featured SDR application for MacOS, based on rtl-sdr and ""Softshell"""	https://github.com/hpux735/Cocoa-Radio		24	7
+810	rsms	cocui	0	Cocoa meets WebKit for more rapid UI development	https://github.com/rsms/cocui		342	13
+811	soundcloud	CocoaSoundCloudUI	0		https://github.com/soundcloud/CocoaSoundCloudUI		17	14
+812	isutton	TumblrKit	0	TumblrKit is a Cocoa interface for Tumblr	https://github.com/isutton/TumblrKit		54	15
+813	ryanb	cocoa-web-app-example	0	A Cocoa application to demonstrate the interaction between Objective-C and JavaScript in a WebView.	https://github.com/ryanb/cocoa-web-app-example		62	6
+814	karelia	ConnectionKit	0	FTP/SFTP/WebDAV etc. for Cocoa.  Join the ConnectionKit mailing list for information and suggestions.	https://github.com/karelia/ConnectionKit	http://lists.opensource.utr-software.com/listinfo.cgi/connection-opensource.utr-software.com	290	43
+815	keysolutions	cksparkline	0	Sparklines for Cocoa Touch applications	https://github.com/keysolutions/cksparkline	http://key-solutions.ca/cksparkline.html	81	11
+816	danieldickison	CocoaOSC	0	An Objective-C library for sending and receiving Open Sound Control (OSC) messages over TCP and UDP.	https://github.com/danieldickison/CocoaOSC		19	7
+817	appsome	AccordionView	0	Simple accordion view in Cocoa Touch	https://github.com/appsome/AccordionView		83	14
+818	amazingsyco	XPCKit	0	XPC simplified for Cocoa. Deal with NS* objects instead of xpc_object_t.	https://github.com/amazingsyco/XPCKit		158	25
+819	oscardelben	DateCalculations	0	Date Calculations for Cocoa Inspired by Ruby on Rails	https://github.com/oscardelben/DateCalculations		126	16
+820	pmark	Helpful-iPhone-Utilities	0	Objective-C and Cocoa Touch extensions one might expect to already be there.	https://github.com/pmark/Helpful-iPhone-Utilities	http://bordertownlabs.com/hibubble_iphone_app/	133	26
+821	glebd	cocoafob	0	A set of registration code generation and verification helpers for Obj-C, Ruby (Potion Store), PHP and FastSpring	https://github.com/glebd/cocoafob		213	26
+822	ReactiveCocoa	ReactiveCocoaLayout	0	Reactive layout framework built on top of ReactiveCocoa	https://github.com/ReactiveCocoa/ReactiveCocoaLayout		153	4
+823	martinkahr	apple_remote_control	0	cocoa source code for interacting with the apple remote control	https://github.com/martinkahr/apple_remote_control		66	23
+824	seletz	CocoaTreeViewExample	0	UITableView example which shows a tree hierarchy in one tableview, clickable expand/collapse cells.	https://github.com/seletz/CocoaTreeViewExample		27	8
+825	snwau	SWSnapshotStackView	0	Snapshot Stack View cocoa touch class decorates your UIImage's for presentation to the user with matte border, drop shadows and simulated stack of physical photos.	https://github.com/snwau/SWSnapshotStackView		411	43
+826	ohsc	TGJSBridge	0	A lightweight javascript bridge to cocoa	https://github.com/ohsc/TGJSBridge		57	11
+827	samuraisam	DeferredKit	0	Asynchronous programming library for cocoa and cocoa touch.	https://github.com/samuraisam/DeferredKit		85	8
+828	stigi	cocoa-soundcloud-streaming	0	A Library for the iPhone to enable progressive playback of MP3 streams. Designed to work for SoundCloud.com	https://github.com/stigi/cocoa-soundcloud-streaming		66	5
+829	esad	zimt	0	Collection of useful Cocoa(Touch) classes, including objc implementation of the websocket protocol	https://github.com/esad/zimt		120	24
+830	beelsebob	Cocoa-GL-Tutorial	0	A lesson in how to set up OpenGL on OS X	https://github.com/beelsebob/Cocoa-GL-Tutorial		29	7
+831	tcurdt	feedbackreporter	0	Framework for sending feedback and system information reports from you Cocoa application.	https://github.com/tcurdt/feedbackreporter	https://github.com/tcurdt/feedbackreporter	95	26
+832	uliwitness	UliKit	0	Miscellaneous open-sourced MacOS Cocoa code by yours truly.	https://github.com/uliwitness/UliKit	http://www.zathras.de/sourcecode.htm	167	17
+833	th-in-gs	THIn	0	Three easy ways to do things later in Cocoa/Cocoa Touch.	https://github.com/th-in-gs/THIn		200	7
+834	petejkim	specta	0	A light-weight TDD / BDD framework for Objective-C & Cocoa	https://github.com/petejkim/specta		201	15
+835	idevsoftware	Cocoa-Touch-Additions	0	A collection of assorted categories to common Cocoa Touch classes	https://github.com/idevsoftware/Cocoa-Touch-Additions	http://idevsoftware.net	23	7
